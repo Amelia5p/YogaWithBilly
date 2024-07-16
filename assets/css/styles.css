@@ -101,6 +101,20 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: green;
+    background-color: #219EBC;
     height: 10vh;
+}
+
+#socials {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    list-style-type: none;
+   
+}
+
+#socials i {
+    color: #3a3a3a;
+    font-size: 120%;
 }
