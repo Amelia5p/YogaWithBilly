@@ -28,6 +28,7 @@ header {
     z-index: 100;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+    align-items: baseline;
     
 }
 
@@ -51,17 +52,15 @@ h1{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-top: 40px;
-
-    
-}
+    }
 
 #logo{
     color: white;
     font-weight: 600;
     text-decoration: wavy;
-    padding-top: 20px;
+   
 }
+
 
 ul li {
     padding-left: 20px;
@@ -71,4 +70,12 @@ ul li {
 ul li:hover {
     transform: scale(1.1);
     
+}
+
+input[type="checkbox"]{
+    display: none;
+}
+
+label {
+    display: none;
 }
