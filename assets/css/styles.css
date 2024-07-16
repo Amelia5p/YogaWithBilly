@@ -73,6 +73,7 @@ nav {
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
     top: 100%;
+
 }
 
 /* Nav toggle */
@@ -91,11 +92,14 @@ nav {
 }
 
 
+.space-btwn {
+    padding: 50px;;
+}
+
 /* Main */
 
 main{
-    padding-top: 50px;
-}
+    padding-top: 50px;}
 
 footer {
     position: fixed;
