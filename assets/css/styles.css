@@ -12,7 +12,7 @@ body {
     font-family: 'lato', sans-serif;
     display: flex;
     flex-direction: column;
-    background-color: #ffffff;
+    background-color: lightblue;
     color: black;
     min-height: 100vh;
     }
@@ -22,19 +22,19 @@ body {
 header {
     background-color: #219EBC;
     padding: 0 1rem;
-    display: flex;
-    justify-content: space-between;
     position: fixed;
-    z-index: 100;
+    z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
     align-items: baseline;
     
 }
 
 header a {
     text-decoration: none;
-    color: inherit;
+    color: black;
 
 }
 
@@ -42,7 +42,8 @@ h1{
     font-family: 'Raleway' , sans-serif;
     font-weight: 300;
     letter-spacing: 1px;
-    
+    display: flex;
+    padding-top: 20%;
 }
 
 #menu {
@@ -50,16 +51,8 @@ h1{
     font-size: 110%;
     font-family: 'Raleway' , sans-serif;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     }
-
-#logo{
-    color: white;
-    font-weight: 600;
-    text-decoration: wavy;
-   
-}
 
 
 ul li {
@@ -70,12 +63,4 @@ ul li {
 ul li:hover {
     transform: scale(1.1);
     
-}
-
-input[type="checkbox"]{
-    display: none;
-}
-
-label {
-    display: none;
 }
