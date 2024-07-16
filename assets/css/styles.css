@@ -14,17 +14,21 @@ body {
     flex-direction: column;
     background-color: #ffffff;
     color: black;
+    min-height: 100vh;
     }
 
 /* header */
 
 header {
     background-color: #219EBC;
-    padding: 10px;
+    padding: 0 1rem;
     display: flex;
     justify-content: space-between;
     position: fixed;
+    z-index: 100;
     width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    
 }
 
 header a {
