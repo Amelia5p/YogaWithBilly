@@ -33,5 +33,20 @@ header a {
 
 h1{
     font-family: 'Raleway' , sans-serif;
-    font-weight: 200;
+    font-weight: 300;
+    letter-spacing: 1px;
+    
+}
+
+#menu {
+    list-style-type: none;
+    font-size: 110%;
+    font-family: 'Raleway' , sans-serif;
+    
+}
+
+#logo{
+    color: white;
+    font-weight: 600;
+    text-decoration: wavy;
 }
