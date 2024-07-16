@@ -29,6 +29,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    padding-bottom: 20px;
+    
     
 }
 
@@ -39,22 +41,25 @@ header a {
 
 h1{
     font-family: 'Raleway' , sans-serif;
-    font-weight: 300;
+    font-weight: 600;
     letter-spacing: 1px;
     display: flex;
     padding-top: 20%;
+    color: white;
 }
 
 #menu {
     list-style-type: none;
     font-size: 110%;
     font-family: 'Raleway' , sans-serif;
+    padding-bottom: 10px;
     }
 
     
 
 ul li:hover {
-    transform: scale(1.1);
+   font-size: medium;
+    
     
 }
 
@@ -73,6 +78,7 @@ nav {
 /* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
+    
 }
 
 #nav-toggle {
@@ -81,4 +87,19 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+    padding-top: 2px;
+}
+
+
+/* Main */
+
+main{
+    padding-top: 50px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
 }
