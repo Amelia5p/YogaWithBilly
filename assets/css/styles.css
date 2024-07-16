@@ -8,6 +8,20 @@
 
 /* body */
 
-body{
+body {
     font-family: 'lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    color: black;
+    }
+
+/* header */
+
+header {
+    background-color: #219EBC;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
 }
