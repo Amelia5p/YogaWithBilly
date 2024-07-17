@@ -14,7 +14,7 @@ body {
     flex-direction: column;
     background-color: #cdb69e;
     color: black;
-    min-height: 100vh;
+   
     }
 
 /* header */
@@ -197,6 +197,23 @@ a{
     text-decoration: none;
     color: white;
 }
+
+
+/* About me Page */
+
+/*Book a class Page */
+
+#blackandwhite {
+    height: 100%;
+    width: 40%;
+    position: relative;
+    display: block;
+    margin-left: auto;
+}
+
+
+
+
     
     /*Footer*/
 
@@ -208,6 +225,7 @@ footer {
     background-color: #cdb69e;
     height: 10vh;
     border-top: solid .5px rgb(40, 51, 75);
+    margin: auto;
     
 }
 
