@@ -96,7 +96,10 @@ nav {
 /* Main */
 
 main{
-    margin-top: 100px;}
+    margin-top: 100px;
+    flex: 1 0 auto;
+}
+    
 
 
 #hero {
@@ -105,8 +108,18 @@ main{
     width:100%;
     position: relative;
 
-    
-   
+}
+
+#hero-text {
+    padding-left: 10px;
+    padding-top: 300px;
+    color: rgb(40, 51, 75 , .8)
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 50px;
+
 }
     
     
@@ -117,7 +130,7 @@ main{
 
 
 footer {
-    position: fixed;
+   
     bottom: 0;
     width: 100%;
     background-color: #cdb69e;
