@@ -125,6 +125,15 @@ h2 {
 
 }
 
+
+.practices{
+    color: rgb(164, 76, 3);
+    font-family: 'Raleway';
+    font-weight: 300;
+    text-align: center;
+    padding: 50px;
+}
+
 #yoga-poses{
     display: grid;
     place-items: center;  
@@ -244,10 +253,32 @@ footer {
 
         #menu li {
             padding-left: 20px;
+            color: rgb(40, 51, 75);
         }
-       }
+
+        }
 
    
 
 
-    
+    /* Media Queries for 1200px and up */
+
+    @media screen and (min-width: 1200px){
+
+        #yoga-poses{
+            display: flex;
+        }
+
+        .practices{
+            color: rgb(164, 76, 3);
+            font-family: 'Raleway';
+            font-weight: 300;
+            text-align: center;
+            padding: 50px;
+        }
+
+        #socials i {
+            font-size: xx-large;
+        }
+
+    }
