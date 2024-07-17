@@ -12,7 +12,7 @@ body {
     font-family: 'lato', sans-serif;
     display: flex;
     flex-direction: column;
-    background-color: lightblue;
+    background-color: #cdb69e;
     color: black;
     min-height: 100vh;
     }
@@ -20,12 +20,12 @@ body {
 /* header */
 
 header {
-    background-color: #219EBC;
+    background-color: #cdb69e;;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 1px 1px #3a3a3a;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -66,13 +66,13 @@ ul li:hover {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #219EBC;
+    background-color: #cdb69e;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
     display: none;
     top: 100%;
+    box-shadow: 0 1px 1px #3a3a3a;
 
 }
 
@@ -80,6 +80,7 @@ nav {
 #nav-toggle:checked~nav {
     display: block;
     
+  
 }
 
 #nav-toggle {
@@ -98,11 +99,28 @@ main{
     margin-top: 100px;}
 
 
+#hero {
+    background: url(/assets/images/hero-min.jpg) no-repeat center center /cover;
+    height: 800px;
+    width:100%;
+    position: relative;
+
+    
+   
+}
+    
+    
+    
+    
+    
+    /*Footer*/
+
+
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #219EBC;
+    background-color: #cdb69e;
     height: 10vh;
 }
 
