@@ -25,7 +25,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 1px 1px #3a3a3a;
+    box-shadow: 0 1px 1px rgb(40, 51, 75);
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -41,11 +41,11 @@ header a {
 
 h1{
     font-family: 'Raleway' , sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 1px;
     display: flex;
     padding-top: 20%;
-    color: white;
+    color:  rgb(40, 51, 75);
 }
 
 #menu {
@@ -72,7 +72,7 @@ nav {
     padding: 0 1rem;
     display: none;
     top: 100%;
-    box-shadow: 0 1px 1px #3a3a3a;
+    box-shadow: 0 1px 1px rgb(40, 51, 75);
 
 }
 
@@ -90,6 +90,7 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
     padding-top: 2px;
+    color: rgb(40, 51, 75);
 }
 
 
@@ -112,12 +113,12 @@ main{
 
 #hero-text {
     padding-left: 10px;
-    padding-top: 300px;
-    color: rgb(40, 51, 75 , .8)
+    padding-top: 270px;
+    color: rgb(164, 76, 3, .9)
 }
 
 h2 {
-    font-weight: 400;
+    font-weight: 300;
     font-size: 50px;
 
 }
@@ -147,6 +148,6 @@ footer {
 }
 
 #socials i {
-    color: #3a3a3a;
+    color: rgb(40, 51, 75);
     font-size: 120%;
 }
