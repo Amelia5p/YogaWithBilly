@@ -129,3 +129,12 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+
+Responsive Navbar With Only HTML & CSS -Coding Artist
+https://www.youtube.com/watch?v=qKqLMlBKHlE
+
+dropdown copied from Love running vids
+
+
+*** left putting div in between nav and main so it makes space >> need to figure how to push main down instead tomorrow as will be image.
