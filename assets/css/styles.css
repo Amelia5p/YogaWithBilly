@@ -215,3 +215,39 @@ footer {
     color: rgb(40, 51, 75);
     font-size: 120%;
 }
+
+/* Media Queries for 768px and up */
+
+@media screen and (min-width: 768px){
+
+    
+/* header */
+    .nav-toggle-label{
+        display:none;
+    }
+
+
+    nav {
+        
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        align-items: flex-end;
+    }
+
+        #menu{
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        #menu li {
+            padding-left: 20px;
+        }
+       }
+
+   
+
+
+    
