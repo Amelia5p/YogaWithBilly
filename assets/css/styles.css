@@ -198,6 +198,8 @@ footer {
     width: 100%;
     background-color: #cdb69e;
     height: 10vh;
+    border-top: solid .5px rgb(40, 51, 75);
+    
 }
 
 #socials {
