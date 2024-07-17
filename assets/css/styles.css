@@ -99,6 +99,8 @@ nav {
 main{
     margin-top: 100px;
     flex: 1 0 auto;
+
+    
 }
     
 
@@ -122,9 +124,27 @@ h2 {
     font-size: 50px;
 
 }
+
+#yoga-poses{
+    display: grid;
+    place-items: center;  
+    padding-top: 20px;
+}
     
+.poses{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
     
-    
+}
+
+#yoga-poses p {
+    display: grid;
+    place-items: center;  
+    padding-top: 20px;
+}
+
+
     
     
     /*Footer*/
