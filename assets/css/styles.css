@@ -141,11 +141,36 @@ h2 {
 #yoga-poses p {
     display: grid;
     place-items: center;  
-    padding-top: 20px;
+    text-align: center;
+    padding: 30px;
+
+}
+    
+
+#yoga-poses h3{
+    display: grid;
+    place-items: center; 
+    padding-top: 20px; 
+    
 }
 
 
+#pose-one{
+    display: grid;
+    place-items: center;  
+}
     
+#pose-two{
+    display: grid;
+    place-items: center;  
+}
+
+#pose-three{
+    display: grid;
+    place-items: center;  
+}
+
+   
     
     /*Footer*/
 
