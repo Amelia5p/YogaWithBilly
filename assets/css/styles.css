@@ -106,7 +106,7 @@ main{
 
 
 #hero {
-    background: url(/assets/images/hero-min.jpg) no-repeat center center /cover;
+    
     height: 800px;
     width:100%;
     position: relative;
@@ -209,6 +209,7 @@ a{
     position: relative;
     display: block;
     margin-left: auto;
+   
 }
 
 

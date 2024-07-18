@@ -137,7 +137,7 @@ https://www.youtube.com/watch?v=qKqLMlBKHlE
 dropdown copied from Love running vids
 
 
-*** left putting div in between nav and main so it makes space >> need to figure how to push main down instead tomorrow as will be image.
+*** start book class page make form & style
 
 BUGS
 -- hero image wasnt 100 width - images in px which was stretching screen and didnt know what to priotritise- change to %
