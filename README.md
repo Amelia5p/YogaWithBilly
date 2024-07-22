@@ -2,7 +2,7 @@
 
 ## Site Overview
 
-Yoga with Billy is a website for yoga lovers. The site's aim is to promote Billy's yoga classes. The website provides an introduction to different yoga styles and to Billy personally, and it also allows users to sign up to classes seamlessly.
+Yoga with Billy is a website for yoga lovers. The site's aim is to promote Billy's yoga classes. The website provides an introduction to different yoga styles taught by Billy. It also allows users to get to know Billy better and allows users to sign up to his classes seamlessly.
 
 Live site: https://amelia5p.github.io/YogaWithBilly/
 
@@ -15,7 +15,7 @@ Live site: https://amelia5p.github.io/YogaWithBilly/
 
 ## Design
 
-Wireframes were made in Balsamiq to ensure a clear and easy development process. The color pallete was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website is where the inspiration for the colors came from, this creates a consistent and cohesive theme. The 'Raleway' and Lato fonts were chosen for their elegance and warmth.  
+Wireframes were made in Balsamiq to ensure a clear and easy development process. The color pallete was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website is where the inspiration for the colors came from, this creates a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
 
 ----
 Responsive Navbar With Only HTML & CSS -Coding Artist
