@@ -148,7 +148,7 @@ h2 {
 }
 
 #yoga-poses p {
-    display: grid;
+   
     place-items: center;  
     text-align: center;
     padding: 30px;
@@ -298,6 +298,16 @@ footer {
 
         #socials i {
             font-size: xx-large;
+        }
+
+        #pose-one{
+            width: 33%;
+        }
+        #pose-two{
+            width: 33%;
+        }
+        #pose-three{
+            width: 33%;
         }
 
     }
