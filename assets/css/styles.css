@@ -201,6 +201,27 @@ a{
 
 /* About me Page */
 
+.about-me {
+    color: rgb(164, 76, 3);
+    font-family: 'Raleway';
+    font-weight: 300;
+    text-align: center;
+    padding: 50px;
+    display: grid;
+    place-items: center;  
+    
+   
+}
+
+.about-pic {
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    display: grid;
+    place-items: center;  
+}
+
+
 /*Book a class Page */
 
 #blackandwhite {
