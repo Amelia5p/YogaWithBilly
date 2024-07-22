@@ -11,10 +11,13 @@ Live site: https://amelia5p.github.io/YogaWithBilly/
 
 
 ---
+# User Experience
 
-Happy coding!
+## Design
 
+Wireframes were made in Balsamiq to ensure a clear and easy development process. The color pallete was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website is where the inspiration for the colors came from, this creates a consistent and cohesive theme. The 'Raleway' and Lato fonts were chosen for their elegance and warmth.  
 
+----
 Responsive Navbar With Only HTML & CSS -Coding Artist
 https://www.youtube.com/watch?v=qKqLMlBKHlE
 
