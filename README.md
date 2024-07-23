@@ -31,7 +31,7 @@ Wireframes were made in Balsamiq to ensure a clear and easy development process.
 ![Font2](../YogaWithBilly/assets/images/font2.png)
 
 ### Images
-The images used were professionally taken and were provided to me by the business owner to use on the site.
+The images used were professionally taken and were provided to me by the business owner to use on the site. The images are compressed to optimise the sites loading times. 
 
 
 ## User Stories
@@ -64,7 +64,7 @@ The navigation bar shows links to each of the pages. It is fully responsive, tur
 The content you see when you click on the website is an attractive hero image and hero text which gives the user immediate knowledge of the purpose of the site.
 
 ### Homepage
-
+Under the hero section, the homepage is made up of three images with three short descriptions of different yoga styles to give the user information on the classes provided. Underneath this is a button which allows the user to book a class. The button is linked to the book a class page.
 
 
 ### About me page
@@ -72,6 +72,7 @@ The content you see when you click on the website is an attractive hero image an
 ### Book a class page 
 
 ### Footer
+The footer is located at the bottom of the page and contains links to social media accounts.
 
 ### Responsiveness
 
