@@ -30,6 +30,53 @@ Wireframes were made in Balsamiq to ensure a clear and easy development process.
 ![Font1](../YogaWithBilly/assets/images/font1.png)
 ![Font2](../YogaWithBilly/assets/images/font2.png)
 
+
+## User Stories
+
+#### First time visitor goals
+* As a first time user, I want to easily understand the purpose of the site and learn more about the business.
+* As a first time user, I want to know what kind of classes are available.
+* As a first time user, I want to be able to navigate easily though the website.
+* As a first time user, I want to be able to find contact details.
+* As a first time user, I want to be able to find out information about the owner/yoga teacher.
+
+#### Returning visitor goals
+* As a returning user, I want to be able to navigate through the website on multiple devices.
+* As a returning user, I want to be able to book a class seamlessly. 
+* As a returning user, I want to be able to easily find social media links.
+
+
+
+
+# Site Structue
+
+
+There are currently three pages on the website: Home, About me and Book a class. The landing page is the home page. The other pages are easily visible and accessible in the navigation bar at the top. The logo which is also at the top of the page, when clicked, brings the user back to the homepage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----
 Responsive Navbar With Only HTML & CSS -Coding Artist
 https://www.youtube.com/watch?v=qKqLMlBKHlE
