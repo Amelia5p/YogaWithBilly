@@ -25,10 +25,13 @@ Wireframes were made in Balsamiq to ensure a clear and easy development process.
 
 ![Color-palette](../YogaWithBilly/assets/images/color-palette.png)
 
-### Fonts
+### Typography
 
 ![Font1](../YogaWithBilly/assets/images/font1.png)
 ![Font2](../YogaWithBilly/assets/images/font2.png)
+
+### Images
+The images used were professionally taken and were provided to me by the business owner to use on the site.
 
 
 ## User Stories
@@ -48,11 +51,35 @@ Wireframes were made in Balsamiq to ensure a clear and easy development process.
 
 
 
-# Site Structue
-
+# Site Structure
 
 There are currently three pages on the website: Home, About me and Book a class. The landing page is the home page. The other pages are easily visible and accessible in the navigation bar at the top. The logo which is also at the top of the page, when clicked, brings the user back to the homepage.
 
+## Features
+
+### Navigation Bar
+The navigation bar shows links to each of the pages. It is fully responsive, turning into a hamburger menu on smaller screen sizes. 
+
+### Hero section/ landing content
+The content you see when you click on the website is an attractive hero image and hero text which gives the user immediate knowledge of the purpose of the site.
+
+### Homepage
+
+
+
+### About me page
+
+### Book a class page 
+
+### Footer
+
+### Responsiveness
+
+### Future features
+ I would like to implement the following features in the future to allow for an improved user experience:
+ - Sign up and Login feature to allow users a personalised experience.
+ - A feature which shows users previous classes and upcoming classes.
+ - A loyalty scheme where the user gets every 6th class free if they sign up on the site.
 
 
 
