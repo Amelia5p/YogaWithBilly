@@ -213,6 +213,7 @@ a{
     display: flex;
     justify-content: center;
     margin: 20px auto;
+    
    
     
     
@@ -252,11 +253,13 @@ a{
 /*Book a class Page */
 
 #book {
-    background-color:#D9C069;
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
+    width: 90%;
+    min-height: 100vh;
     flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: auto;
 }
 
 
@@ -264,6 +267,9 @@ a{
     color: white;
     background-color: rgb(40, 51, 75);
     padding: 30px;
+    display: block;
+    margin-top: 30px;
+    
     
     
 }
@@ -277,19 +283,24 @@ a{
 
 .text-input {
     background: transparent;
-    color: #3a3a3a;
+    color: #fafafa;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid white;
-    border-radius: 2px;
+    border-radius: 5px;
     padding: 0 5px;
+    
 }
 
 
 
-
-
+.blackandwhite {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%
+}
 
 
     
