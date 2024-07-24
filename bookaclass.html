@@ -29,19 +29,56 @@
     <!---Main Content--> 
     <main>
       <section id="book">
-          <form id="book-a-class" method="POST">
-              <h2>Book a class</h2>
-              <label for="first-name">First Name</label>
+        <form id="book-a-class" method="POST">
+          <h2>Book a class</h2>
+            <label for="first-name">First Name</label>
               <input type="text" name="first_name" id="first-name" class="text-input" required>
-              <br>
-              <label for="last-name">Last Name</label>
+               <br>
+            <label for="last-name">Last Name</label>
               <input type="text" name="last_name" id="last-name" class="text-input" required>
-              <br>
-              <label for="email-address">Email Address</label>
+               <br>
+            <label for="email-address">Email Address</label>
               <input type="email" name="email_address" id="email-address" class="text-input" required>
-              <br>
-          </form>
+                <br>
+              <div id="radio-buttons">
+                <p>Which style of yoga would you like to practice?</p>
+              </div>
+              <div>
+                <label for="yin">Yin Yoga</label>
+                  <input type="radio" name="yoga-practice" id="yin" value="yin" checked required>
+            </div>
+            <div>
+                <label for="vinyasa">Vinyasa Yoga</label>
+                  <input type="radio" name="yoga-practice" id="vinyasa" value="vinyasa" required>
+          </div>
           <div>
+                <label for="hatha">Hatha Yoga</label>
+                  <input type="radio" name="yoga-practice" id="hatha" value="hatha" required>
+          </div>        
+              
+           <div id="date">
+                <label for="day-pick">Pick a day:</label>
+                    <select name="day-dropdown" id="day-dropdown">
+                  <option value="Monday">Monday</option>
+                  <option value="Wednesday">Wednesday</option>
+                  <option value="Friday">Friday</option>
+                    </select>
+           </div>
+
+           <div id="time">
+            <label for="time-pick">Pick a time:</label>
+                <select name="time-dropdown" id="time-dropdown">
+              <option value="nine">09:00am</option>
+              <option value="twelve">12:00pm</option>
+              <option value="three">15:00pm</option>
+                </select>
+       </div>
+       <div>
+        <input type="button" value="Book class">
+       </div>
+      </form>
+          
+      <div>
             <img src="/assets/images/blackandwhite.jpg" alt="picture of bill teaching a yoga class" class="blackandwhite">
           </div>
       </section>
