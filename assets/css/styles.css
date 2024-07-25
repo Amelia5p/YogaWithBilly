@@ -289,10 +289,11 @@ a{
 
 #book-a-class {
     color: white;
-    background-color: rgb(40, 51, 75);
+    background-color: rgb(40 51 75 / 43%);
     padding: 30px;
     display: block;
-    margin-top: 30px;
+    margin-top: 150px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
     
     
     
@@ -302,6 +303,7 @@ a{
 #book-a-class>h2 {
     color: white;
     margin-bottom: 20px;
+    background-color: revert;
 }
 
 
@@ -323,7 +325,8 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    width:100%
+    width:100%;
+    margin-top: 5px
 }
 
 
@@ -397,6 +400,20 @@ footer {
         h2{
             font-size: 3rem;
         }
+
+       #book {
+       display: flex;
+       flex-direction: row;
+       box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+       }
+        
+       .blackandwhite{
+        margin-top: 150px;
+       }
+
+       #book-a-class {
+        box-shadow: none;
+       }
 
         }
 
