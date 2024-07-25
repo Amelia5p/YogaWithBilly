@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yoga With Billy</title>
+    <title>Book a class| Yoga With Billy</title>
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
@@ -42,27 +42,23 @@
                 <br>
               <div id="radio-buttons">
                 <p>Which style of yoga would you like to practice?</p>
-              </div>
-              <div>
+             
+              <div class="yoga-type">
                 <label for="yin">Yin Yoga</label>
                   <input type="radio" name="yoga-practice" id="yin" value="yin" checked required>
             </div>
-            <div>
+            <div class="yoga-type">
                 <label for="vinyasa">Vinyasa Yoga</label>
                   <input type="radio" name="yoga-practice" id="vinyasa" value="vinyasa" required>
           </div>
-          <div>
+          <div class="yoga-type">
                 <label for="hatha">Hatha Yoga</label>
                   <input type="radio" name="yoga-practice" id="hatha" value="hatha" required>
           </div>        
-              
-           <div id="date">
-                <label for="day-pick">Pick a day:</label>
-                    <select name="day-dropdown" id="day-dropdown">
-                  <option value="Monday">Monday</option>
-                  <option value="Wednesday">Wednesday</option>
-                  <option value="Friday">Friday</option>
-                    </select>
+        </div>
+           <div id="date" class="date-and-time">
+                <label for="date-pick">Pick a date:</label>
+                    <input type="date" name="date-picker" id="date-picker">
            </div>
 
            <div id="time">
@@ -74,13 +70,15 @@
                 </select>
        </div>
        <div>
-        <input type="button" value="Book class">
+        <input type="button" value="Book class" id="book-button">
        </div>
       </form>
           
+      <!-- 
       <div>
             <img src="/assets/images/blackandwhite.jpg" alt="picture of bill teaching a yoga class" class="blackandwhite">
-          </div>
+          </div> 
+          -->
       </section>
   </main>
 

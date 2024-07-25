@@ -21,7 +21,7 @@ body {
 /* header */
 
 header {
-    background-color: #cdb69e;;
+    background-color: #cdb69e;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -100,7 +100,7 @@ nav {
 
 main{
    
-    background-color: #fad6b8;
+    background-color: #fff4e2;
     
     
 
@@ -135,6 +135,7 @@ h2 {
     padding: 2px;
     border-radius: 5px;
     
+    
 
 }
 
@@ -149,14 +150,14 @@ h3{
     font-weight: 300;
     text-align: center;
     padding: 50px;
-    background-color: #fad6b8;
+    background-color:#fff4e2;
 }
 
 #yoga-poses{
     display: grid;
     place-items: center;  
     padding-top: 20px;
-    background-color: #fad6b8;
+    background-color: #fff4e2;
 }
     
 .poses{
@@ -211,11 +212,12 @@ h3{
     margin: 0 auto;
     margin-top: 70px;
     margin-bottom: 70px;
+    color: #fafafa;
     
 }
 
 #button-section{
-    background-color: #fad6b8;
+    background-color: #fff4e2;
 }
 
 a{
@@ -277,7 +279,7 @@ a{
 /*Book a class Page */
 
 #book {
-    width: 90%;
+    
     min-height: 100vh;
     flex-grow: 1;
     display: flex;
@@ -289,12 +291,17 @@ a{
 
 #book-a-class {
     color: white;
-    background-color: rgb(40 51 75 / 43%);
+    background: url(../images/blackandwhite.jpg);
     padding: 30px;
     display: block;
-    margin-top: 150px;
+    margin-top: 80px;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-    
+    max-width: 550px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    height: 100%;
     
     
 }
@@ -319,15 +326,31 @@ a{
     
 }
 
+#radio-buttons p {
+    font-size: 18px;
+}
+
+.yoga-type{
+    padding-top: 8px;
+}
+
+#radio-buttons {
+   
+    margin: 5px 0 20px 0;
+}
 
 
-.blackandwhite {
+
+/* .blackandwhite {
     display: flex;
     justify-content: center;
     align-items: center;
     width:100%;
-    margin-top: 5px
-}
+    margin-top: 5px;
+    max-width: 550px;
+    width: 100%;
+    margin: 0 auto;
+} */
 
 
     
@@ -405,19 +428,19 @@ footer {
        display: flex;
        flex-direction: row;
        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+       min-height: 100vh;
        }
+
         
        .blackandwhite{
-        margin-top: 150px;
+        margin-top: 80px;
        }
 
        #book-a-class {
         box-shadow: none;
        }
 
-        }
-
-   
+    }
 
 
     /* Media Queries for 1200px and up */
@@ -453,5 +476,7 @@ footer {
         h2{
             font-size: 3.5rem;
         }
+
+
 
     }
