@@ -52,7 +52,7 @@ h1{
 
 #menu {
     list-style-type: none;
-    font-size: 130%;
+    font-size: 1.5rem;
     font-family: 'Raleway' , sans-serif;
     padding-bottom: 10px;
     }
@@ -216,6 +216,10 @@ h3{
     
 }
 
+#book-button:hover{
+    opacity: 80%;
+}
+
 #button-section{
     background-color: #fff4e2;
 }
@@ -245,10 +249,6 @@ a{
     
  }
 
- .about-me h2{
-    font-size: 150%;
-     
- }
 
  .about-pic {
     
@@ -384,6 +384,11 @@ select#time-dropdown{
     font-size: 1.5rem;
     color: black;
 }
+
+.contact{
+    font-size: 1rem;
+    text-align: center;
+}
 /* 
 .blackandwhite {
     display: flex;
@@ -397,11 +402,51 @@ select#time-dropdown{
 }  */
 
 
+/* Thanks page */
+
+.thank-you {
+    
+    color: rgb(40, 51, 75);
+    background: orange;
+    padding: 30px;
+    display: block;
+    margin-top: 80px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    max-width: 550px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    height: 100%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    
+    
+}
+
+.thank-you h2 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 0 auto;
+    padding:5px;
+}
+
+
+
+h5{
+    font-size: 26px;
+    font-weight: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+
     
     /*Footer*/
 
 
-footer {
+.footer {
    
     bottom: 0;
     width: 100vw;
@@ -427,7 +472,7 @@ footer {
 
 #socials i {
     color: rgb(40, 51, 75);
-    font-size: 120%;
+    font-size: 2rem;
     padding-left: 20px;
     justify-content: space-between;
     
@@ -524,7 +569,7 @@ footer {
         }
 
         #socials i {
-            font-size: xx-large;
+            font-size: 2rem;
         }
 
         #pose-one{
