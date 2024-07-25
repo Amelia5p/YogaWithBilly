@@ -53,7 +53,7 @@ The images used were professionally taken and were provided to me by the busines
 
 # Site Structure
 
-There are currently three pages on the website: Home, About me and Book a class. The landing page is the home page. The other pages are easily visible and accessible in the navigation bar at the top. The logo which is also at the top of the page, when clicked, brings the user back to the homepage.
+There are currently three pages on the website: Home, About me and Book a class. The landing page is the home page. The other pages are easily visible and accessible in the navigation bar at the top. The logo which is also at the top of the page, when clicked, brings the user back to the homepage. Also, when a user books a class, they are redirected to a page which thanks them.
 
 ## Features
 
@@ -122,3 +122,5 @@ BUGS
 
 
 to describe dif yogas used :https://fusionwellness.com.au/yin-hatha-vinyasa-yoga-casuarina/#:~:text=Hatha%20yoga%20is%20gentler%20than,that%20build%20strength%20and%20flexibility.
+
+<a href="https://www.freepik.com/free-photo/sky-sunset_2991929.htm#fromView=search&page=1&position=0&uuid=093a6b89-2282-4d7b-b4c0-72f832df2e8a">Image by rawpixel.com on Freepik</a>  

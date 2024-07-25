@@ -31,13 +31,13 @@
       <section id="book">
         <form id="book-a-class" method="POST">
           <h2 id="book-text">Book a class</h2>
-            <label for="first-name">First Name</label>
+            <label for="first-name">First Name:</label>
               <input type="text" name="first_name" id="first-name" class="text-input" required>
                <br>
-            <label for="last-name">Last Name</label>
+            <label for="last-name">Last Name:</label>
               <input type="text" name="last_name" id="last-name" class="text-input" required>
                <br>
-            <label for="email-address">Email Address</label>
+            <label for="email-address">Email Address:</label>
               <input type="email" name="email_address" id="email-address" class="text-input" required>
                 <br>
               <div id="radio-buttons">
@@ -54,12 +54,15 @@
           <div class="yoga-type">
                 <label for="hatha">Hatha Yoga</label>
                   <input type="radio" name="yoga-practice" id="hatha" value="hatha" required>
+                  <p class="note">Please note, classes are held every Monday, Wednesday and Friday only.</p>
           </div>        
+          
         </div>
+         
            <div id="date" class="date-and-time">
                 <label for="date-pick">Pick a date:</label>
                     <input type="date" name="date-picker" id="date-picker">
-                    <p>Please note, classes are held every Monday, Wednesday and Friday only.</p>
+                   
            </div>
 
            <div id="time">
@@ -69,9 +72,11 @@
               <option value="twelve">12:00pm</option>
               <option value="three">15:00pm</option>
                 </select>
+               
        </div>
        <div>
-        <input type="button" value="Book class" id="book-button">
+       
+       <button id="book-button"><a href="thanks.html">Book a class</a></button>
        </div>
       </form>
           
