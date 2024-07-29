@@ -37,7 +37,7 @@ header {
 
 header a {
     text-decoration: none;
-    color: inherit;
+    color: rgb(40, 51, 75);
 }
 
 h1{
@@ -297,8 +297,8 @@ a{
     display: block;
     max-width: 550px;
     width: 100%;
+    margin: 0 auto;
     margin-top: 150px;
-    margin-bottom: 50px;
     height: 100%;
     box-shadow:  rgb(38, 57, 77) 0px 20px 30px -10px;
    
@@ -319,6 +319,7 @@ a{
     border-radius: 5px;
     margin: 0 auto;
     margin-bottom: 40px;
+    margin-top: 40px;
     font-size: 2rem;
     font-family: 'Raleway', sans-serif;
     
@@ -503,6 +504,7 @@ h5{
         #menu{
             display: flex;
             justify-content: space-evenly;
+            color:rgb(40, 51, 75);
         }
 
         #menu li {
