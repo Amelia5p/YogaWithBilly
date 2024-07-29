@@ -6,29 +6,29 @@ Yoga with Billy is a website for yoga lovers. The site's aim is to promote Billy
 
 Live site: https://amelia5p.github.io/YogaWithBilly/
 
-![Responsive Site](../workspace/YogaWithBilly/assets/images/responsive.png)
+![Responsive Site](assets/images/responsive.png)
 
 
-
----
 # User Experience
 
 ## Design
 
 Wireframes were made in Balsamiq to ensure a clear and easy development process. The color palette was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website is where the inspiration for the colors came from, this creates a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
 
+
+
 ### Wireframes
 
-![wireframes](../YogaWithBilly/assets/images/full%20wireframe.png)
+![wireframes](assets/images/full%20wireframe.png)
 
 ### Color Palette 
 
-![Color-palette](../YogaWithBilly/assets/images/color-palette.png)
+![Color-palette](assets/images/color-palette.png)
 
 ### Typography
 
-![Font1](../YogaWithBilly/assets/images/font1.png)
-![Font2](../YogaWithBilly/assets/images/font2.png)
+![Font1](assets/images/font1.png)
+![Font2](assets/images/font2.png)
 
 ### Images
 The images used were professionally taken and were provided to me by the business owner to use on the site. The images are compressed to optimise the sites loading times. 
