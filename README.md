@@ -6,7 +6,7 @@ Yoga with Billy is a website for yoga lovers. The site's aim is to promote Billy
 
 Live site: https://amelia5p.github.io/YogaWithBilly/
 
-![Responsive Site](../workspace/YogaWithBilly/assets/images/responsive.png)
+![Responsive Site](assets/images/responsive.png)
 
 
 
