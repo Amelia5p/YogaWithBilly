@@ -311,9 +311,9 @@ a{
 
 
 #book-a-class>h2 {
-    color: rgb(164, 76, 3);
+    color: #fafafa;
     margin-bottom: 40px;
-    background-color: #fff4e2;
+    background-color: rgb(40, 51, 75);
     width: fit-content;
     font-weight: 300;
     padding: 8px;
@@ -321,7 +321,7 @@ a{
     border-radius: 5px;
     margin: 0 auto;
     margin-bottom: 40px;
-    font-size: 3rem;
+    font-size: 2rem;
     font-family: 'Raleway', sans-serif;
     
 }
@@ -353,18 +353,19 @@ a{
 }
 
 #book label  {
-    font-size: 1.5rem;
+    font-size: 1rem;
+    font-weight: bold;
 }
 
 #radio-buttons p {
-    font-size: 1.5rem;
+    font-size: 1rem;
     padding-top: 20px;
     padding-bottom: 10px;
     font-weight: bold;
 }
 
 #date p {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 600;
     color: black;
     padding-top: 5px;
@@ -381,7 +382,7 @@ select#time-dropdown{
 
 .note {
     margin-bottom: 10px;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: black;
 }
 
