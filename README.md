@@ -19,16 +19,16 @@ Wireframes were made in Balsamiq to ensure a clear and easy development process.
 
 ### Wireframes
 
-![wireframes](../YogaWithBilly/assets/images/full%20wireframe.png)
+![wireframes](assets/images/full%20wireframe.png)
 
 ### Color Palette 
 
-![Color-palette](../YogaWithBilly/assets/images/color-palette.png)
+![Color-palette](assets/images/color-palette.png)
 
 ### Typography
 
-![Font1](../YogaWithBilly/assets/images/font1.png)
-![Font2](../YogaWithBilly/assets/images/font2.png)
+![Font1](assets/images/font1.png)
+![Font2](assets/images/font2.png)
 
 ### Images
 The images used were professionally taken and were provided to me by the business owner to use on the site. The images are compressed to optimise the sites loading times. 
