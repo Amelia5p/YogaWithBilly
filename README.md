@@ -6,7 +6,7 @@ Yoga with Billy is a website for yoga lovers. The site's aim is to promote Billy
 
 Live site: https://amelia5p.github.io/YogaWithBilly/
 
-![Responsive Site](../YogaWithBilly/assets/images/responsive.png)
+![Responsive Site](../workspace/YogaWithBilly/assets/images/responsive.png)
 
 
 
@@ -123,4 +123,10 @@ BUGS
 
 to describe dif yogas used :https://fusionwellness.com.au/yin-hatha-vinyasa-yoga-casuarina/#:~:text=Hatha%20yoga%20is%20gentler%20than,that%20build%20strength%20and%20flexibility.
 
-<a href="https://www.freepik.com/free-photo/sky-sunset_2991929.htm#fromView=search&page=1&position=0&uuid=093a6b89-2282-4d7b-b4c0-72f832df2e8a">Image by rawpixel.com on Freepik</a>  
+ 
+
+how to create cards; https://www.w3schools.com/howto/howto_css_cards.asp
+
+
+picture : https://www.pexels.com/photo/bright-sky-with-fluffy-clouds-7283618/
+
