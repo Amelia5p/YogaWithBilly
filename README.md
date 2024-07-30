@@ -85,6 +85,15 @@ The footer is located at the bottom of the page and contains links to social med
 
 
 
+# Credits
+
+## Favicon
+
+https://favicon.io/favicon-converter/#google_vignette
+
+## Background Image
+
+https://www.pexels.com/photo/bright-sky-with-fluffy-clouds-7283618/
 
 
 
@@ -112,7 +121,7 @@ https://www.youtube.com/watch?v=qKqLMlBKHlE
 dropdown copied from Love running vids
 
 
-*** start book class page make form & style
+
 
 BUGS
 -- hero image wasnt 100 width - images in px which was stretching screen and didnt know what to priotritise- change to %
@@ -128,5 +137,4 @@ to describe dif yogas used :https://fusionwellness.com.au/yin-hatha-vinyasa-yoga
 how to create cards; https://www.w3schools.com/howto/howto_css_cards.asp
 
 
-picture : https://www.pexels.com/photo/bright-sky-with-fluffy-clouds-7283618/
 

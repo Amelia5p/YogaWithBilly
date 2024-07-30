@@ -14,7 +14,7 @@ body {
     font-family: 'lato', sans-serif;
     display: flex;
     flex-direction: column;
-    background-color: #cdb69e;
+    background-color: #fae5ce;
     color: black;
     min-height: 100vh;
    
@@ -23,8 +23,7 @@ body {
 /* header */
 
 header {
-    background-color: #cdb69e;
-    padding: 0 1rem;
+    background-color: #fae5ce;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -70,7 +69,7 @@ ul li:hover {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #cdb69e;
+    background-color: #fae5ce;;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -116,7 +115,7 @@ main{
     
 }
     
-
+/* Hero section */
 
 #hero {
     background: url(../images/hero-min.jpg) no-repeat center center /cover;
@@ -151,6 +150,7 @@ h3{
     font-size: 3rem;
 }
 
+/* Images and yoga text */
 
 .practices{
     color: rgb(164, 76, 3);
@@ -208,6 +208,8 @@ h3{
     place-items: center;  
 }
 
+/* Button */
+
 #book-button{
     font-family: 'Raleway';
     font-size: 1rem;
@@ -255,6 +257,8 @@ a{
 
 /*Book a class Page */
 
+/*Form */
+
 #book {
     
     min-height: 100vh;
@@ -283,14 +287,14 @@ a{
     
 }
 
-
+/* Heading on form */
 
 #book-a-class>h2 {
-    color: #fafafa;
+    color: rgb(40, 51, 75);
     margin-bottom: 40px;
-    background-color: rgb(40, 51, 75);
+    background-color: inherit;
     width: fit-content;
-    font-weight: 300;
+    font-weight: 600;
     padding: 8px;
     text-align: center;
     border-radius: 5px;
@@ -302,6 +306,7 @@ a{
     
 }
 
+/*Text inpits */
 
 .text-input {
     background: #fff4e2;;
@@ -314,6 +319,8 @@ a{
     padding: 0 5px;
     
 }
+
+/* Radio Buttons */
 
 #radio-buttons p {
     font-size: 20px;
@@ -339,6 +346,8 @@ a{
     padding-bottom: 10px;
     font-weight: bold;
 }
+
+/* Date and time inputs */
 
 #date p {
     font-size: 1rem;
@@ -429,7 +438,7 @@ h5{
    
     bottom: 0;
     width: 100vw;
-    background-color: #cdb69e;
+    background-color: #fae5ce;
     height: 10vh;
     border-top: solid .5px rgb(40, 51, 75);
     margin: auto;
@@ -493,18 +502,19 @@ h5{
             font-size: 3rem;
         }
 
+        /* Form */
+
        #book {
        display: flex;
        flex-direction: row;
-       min-height: 100vh;
-       background: url(../images/pexels-sunsetoned-7283618.jpg)
+      
+       background: url(../images/pexels-sunsetoned-7283618.jpg);
+    
 
        }
 
         
-       .blackandwhite{
-        margin-top: 80px;
-       }
+      
 
        
        #book-a-class {
@@ -513,7 +523,6 @@ h5{
         padding: 30px;
         display: block;
         margin-top: 80px;
-       
         max-width: 550px;
         width: 100%;
         margin: 0 auto;
@@ -525,6 +534,8 @@ h5{
         
         
     }
+
+
 
     
 
