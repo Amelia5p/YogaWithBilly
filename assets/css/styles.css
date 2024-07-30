@@ -246,8 +246,6 @@ a{
 
 
 
-  
-
    
     
 
@@ -393,20 +391,17 @@ select#time-dropdown{
 /* Thanks page */
 
 .thank-you {
-    
+  
     color: rgb(40, 51, 75);
-    background: orange;
-    padding: 30px;
+    background: #9db8cf;
+    padding: 20px;
     display: block;
-    margin-top: 80px;
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
     max-width: 550px;
     width: 100%;
     margin: 0 auto;
-    margin-top: 100px;
-    margin-bottom: 20px;
+    margin-top: 150px;
     height: 100%;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    box-shadow:  rgb(38, 57, 77) 0px 20px 30px -10px;
     
     
 }
@@ -507,8 +502,8 @@ h5{
        #book {
        display: flex;
        flex-direction: row;
-      
        background: url(../images/pexels-sunsetoned-7283618.jpg);
+       margin-top:50px;
     
 
        }
@@ -523,6 +518,7 @@ h5{
         padding: 30px;
         display: block;
         margin-top: 80px;
+        margin-bottom: 20px;
         max-width: 550px;
         width: 100%;
         margin: 0 auto;
@@ -578,4 +574,19 @@ h5{
 
 
 
+    }
+
+
+    @media screen and (max-width: 768px){
+#book-a-class{
+    margin-top: 100px;
+}
+    }
+
+    @media screen and (max-width: 500px){
+        #book-a-class{
+            margin-top: 50px;
+        }
+
+        
     }
