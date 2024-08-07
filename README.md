@@ -142,7 +142,9 @@ to describe dif yogas used :https://fusionwellness.com.au/yin-hatha-vinyasa-yoga
 
  
 
-how to create cards; https://www.w3schools.com/howto/howto_css_cards.asp
+how to create cards: https://www.youtube.com/watch?v=9FNNkzPBFcE
+
+image re-sizer https://www.shutterstock.com/image-resizer
 
 
 
