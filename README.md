@@ -60,8 +60,14 @@ There are currently three pages on the website: Home, About me and Book a class.
 ### Navigation Bar
 The navigation bar shows links to each of the pages. It is fully responsive, turning into a hamburger menu on smaller screen sizes. 
 
+![Navigation Bar hamburger](assets/images/small-nav-readme.png)
+![Navigation Bar](assets/images/full-nav-readme.png)
+
 ### Hero section/ landing content
 The content you see when you click on the website is an attractive hero image and hero text which gives the user immediate knowledge of the purpose of the site.
+
+![hero section](assets/images/hero-readme.png)
+
 
 ### Homepage
 Under the hero section, the homepage is made up of three images with three short descriptions of different yoga styles to give the user information on the classes provided. Underneath this is a button which allows the user to book a class. The button is linked to the book a class page.
