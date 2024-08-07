@@ -17,6 +17,7 @@ body {
     background-color: #fae5ce;
     color: black;
     min-height: 100vh;
+    
    
     }
 
@@ -105,15 +106,6 @@ nav {
 
 /* Main */
 
-main{
-   
-    background-color: #fff4e2;
-    
-    
-
-
-    
-}
     
 /* Hero section */
 
@@ -243,12 +235,61 @@ a{
 
 /* About me Page */
 
+#about-text h6 {
+    padding-top: 180px;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(40, 51, 75);
+}
+
+#about-text p {
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
 
 
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
 
-   
+}
+
+.card{
+    width: 325px;
+    background-color: #9db8cf;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba (0,0,0, 0.2);
+    margin: 20px;
+    color: rgb(40, 51, 75);
+}
+
+.card h3{
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 8px;
+}
+
+
+.about-img{
+    width: 100%;
+    height: auto;
+}
     
+.card-content {
+    padding: 16px;
+}
 
+#about-bg{
+   
+    margin: auto;
+    background:url(../images/pexels-sunsetoned-7283618.jpg);
+   
+}
     
     
 
@@ -430,13 +471,13 @@ h5{
 
 
 .footer {
-   
+    position: fixed;
     bottom: 0;
     width: 100vw;
     background-color: #fae5ce;
     height: 10vh;
     border-top: solid .5px rgb(40, 51, 75);
-    margin: auto;
+    
   
    
     
