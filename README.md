@@ -80,6 +80,8 @@ Under the hero section, the homepage is made up of three images with three short
 ### Footer
 The footer is located at the bottom of the page and contains links to social media accounts.
 
+![footer](assets/images/footer-readme.png)
+
 ### Responsiveness
 
 ### Future features
