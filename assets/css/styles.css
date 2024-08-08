@@ -14,7 +14,7 @@ body {
     font-family: 'lato', sans-serif;
     display: flex;
     flex-direction: column;
-    background-color: #fae5ce;
+    background-color: #fff4e2;
     color: black;
     min-height: 100vh;
     
@@ -482,8 +482,8 @@ h5{
     bottom: 0;
     width: 100vw;
     background-color: #fae5ce;
-    height: 10vh;
-    border-top: solid .5px rgb(40, 51, 75);
+    height: calc(100vh - 100px);
+    box-shadow: 0 1px 1px rgb(40, 51, 75);
     
   
    
@@ -498,6 +498,7 @@ h5{
     padding:40px;
     list-style-type: none;
     width: 100%;
+    background-color: #fae5ce;
    
 }
 
