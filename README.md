@@ -54,7 +54,7 @@ The images used were professionally taken and were provided to me by the busines
 
 # Site Structure
 
-There are currently three pages on the website: Home, About me and Book a class. The landing page is the home page. The other pages are easily visible and accessible in the navigation bar at the top. The logo which is also at the top of the page, when clicked, brings the user back to the homepage. Also, when a user books a class, they are redirected to a page which thanks them.
+There are currently three pages on the website: Home, About me and Book a class there is also a thank you page that the user will be redirected to once they submit the form. The landing page is the home page. The other pages are easily visible and accessible in the navigation bar at the top. The logo which is also at the top of the page, when clicked, brings the user back to the homepage. 
 
 ## Features
 
@@ -87,6 +87,12 @@ The about me page has a brief personal description about Billy, underneath this 
 The book a class page has the same background as the About me page for consistency in the styling, the page consists of a simple-to-use form that has no uneccesary questions. There are clear prompts shown to the user if they don't enter the required information before submitting. Once the user has submited the form they are redirected to a 'thank you' page which enhances the user's experience.
 
 ![Book a class page](assets/images/bookaclass-readme.png)
+
+### Thank you page
+
+The thank you page has a thank you note and is styled the same as the other pages, its purpose it to thank the user for submitting the form to enhance user experience but also to inform the user their submission was successful.
+
+![Thank you page](assets/images/thankyou-readme.png)
 
 ### Footer
 The footer is located at the bottom of the page and contains links to social media accounts using attractive icons.

@@ -111,7 +111,7 @@ nav {
     color: rgb(164, 76, 3, 0.9);
 }
 
-#hero h2 {
+.hero-line {
     font-weight: 300;
     font-size: 2rem;
     background-color: #ffffff8f;
@@ -121,9 +121,7 @@ nav {
     border-radius: 5px;
 }
 
-h3 {
-    font-size: 3rem;
-}
+
 
 /* Images and yoga text */
 
@@ -134,6 +132,7 @@ h3 {
     text-align: center;
     padding: 50px;
     background-color: #fff4e2;
+    font-size: 3rem;
 }
 
 #yoga-poses {
@@ -156,7 +155,7 @@ h3 {
     color: rgb(40, 51, 75);
 }
 
-#yoga-poses h4 {
+.title {
     display: grid;
     place-items: center;
     padding-top: 20px;
@@ -212,7 +211,7 @@ a {
 
 /* About me Page */
 
-#about-text h6 {
+.about-title {
     padding-top: 180px;
     font-size: 2.5rem;
     text-align: center;
@@ -253,7 +252,7 @@ a {
     padding-bottom: 10px;
 }
 
-.card h3 {
+.card-title {
     text-align: center;
     font-size: 2rem;
     padding-bottom: 8px;
@@ -302,7 +301,7 @@ a {
 
 /* Heading on form */
 
-#book-a-class > h2 {
+#book-text {
     color: rgb(40, 51, 75);
     margin-bottom: 40px;
     background-color: inherit;
@@ -403,7 +402,7 @@ select#time-dropdown {
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
-.thank-you h2 {
+.thanks {
     font-size: 3rem;
     text-align: center;
     margin: 0 auto;
@@ -415,6 +414,11 @@ select#time-dropdown {
     font-weight: 300;
     padding-top: 20px;
     padding-bottom: 20px;
+    text-align: center;
+}
+
+#thanks-text {
+    text-align: center;
 }
 
 /*Footer*/
@@ -474,7 +478,7 @@ select#time-dropdown {
         color: rgb(40, 51, 75);
     }
 
-    #hero h2 {
+    .hero-line{
         font-size: 3rem;
     }
 
@@ -542,7 +546,7 @@ select#time-dropdown {
         width: 33%;
     }
 
-    h2 {
+    .hero-line {
         font-size: 3.5rem;
     }
 
