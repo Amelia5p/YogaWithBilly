@@ -151,7 +151,15 @@ https://favicon.io/favicon-converter/#google_vignette
 https://www.pexels.com/photo/bright-sky-with-fluffy-clouds-7283618/
 
 
+# Bugs
+Debugging and problem solving were done consistently throughout the development process.
 
+List of some issues that arised:
+
+* The hero image wasn't 100 in width and image in px which was stretching screen and didnt know what to priotritise- change to %
+* hero image not showing up when deployed, fixed file path to solve issue.
+* When the text was changed on the homepage under the title Yin Yoga, the text underneath Vinyasa yoga spilled out, fixed by setting media queries width. 
+* Error in html a tag nested in button, fixed this by removing the <button> element.
 
 
 
@@ -179,10 +187,7 @@ dropdown copied from Love running vids
 
 
 BUGS
--- hero image wasnt 100 width - images in px which was stretching screen and didnt know what to priotritise- change to %
--- hero image not showing up when deployed, fixed file path to solve issue.
--- when changed text on pose-one etc pose two spilled out, had to set media query widths to fix.x
--- error in html a tag nested in button 
+
 
 
 
