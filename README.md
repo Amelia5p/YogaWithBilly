@@ -70,15 +70,23 @@ The content you see when you click on the website is an attractive hero image an
 
 
 ### Homepage
-Under the hero section, the homepage is made up of three images with three short descriptions of different yoga styles to give the user information on the classes provided. Underneath this is a button which allows the user to book a class. The button is linked to the book a class page.
+The homepage is made up of the hero section which is an attactive image and text, underneath this, there are three images with three concise descriptions of different yoga styles to give the user information on the classes provided. At the bottom of the page there is a call to action (button) which allows the user to book a class. The button is linked to the book a class page.
+
+![Homepage](assets/images/homepage-readme.png) 
 
 
 ### About me page
 
+The about me page has a brief personal description about Billy, underneath this there are three cards containing images with a description of Billy's qualifications, skills and expertise. The background is calming and the style simple.
+
+![About me page](assets/images/aboutme-readme.png)
+
 ### Book a class page 
 
+The book a class page has the same background as the About me page for consistency in the styling, the page consists of a simple-to-use form that has no uneccesary questions. There are clear prompts shown to the user if they don't enter the required information before submitting. Once the user has submited the form they are redirected to a 'thank you' page which enhances the user's experience.
+
 ### Footer
-The footer is located at the bottom of the page and contains links to social media accounts.
+The footer is located at the bottom of the page and contains links to social media accounts using attractive icons.
 
 ![footer](assets/images/footer-readme.png)
 
@@ -96,6 +104,8 @@ The footer is located at the bottom of the page and contains links to social med
 
 
 ## Responsiveness
+
+The site is fully responsive and functions on a range of screen sizes. It was built prioritisig mobile's first and media queries were applied to ensure responsiveness on larger screensizes. 
 
 ## Lighthouse Testing
 
