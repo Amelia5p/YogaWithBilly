@@ -13,11 +13,12 @@ Live site: https://amelia5p.github.io/YogaWithBilly/
 
 ## Design
 
-Wireframes were made in Balsamiq to ensure a clear and easy development process. The color palette was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website is where the inspiration for the colors came from, this creates a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
+Wireframes were made in Balsamiq to ensure a clear and easy development process, however please note the final design may not match these wireframes exactly as there were many iterations explored. The color palette was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website is where the inspiration for the colors came from, this creates a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
 
 
 
 ### Wireframes
+
 
 ![wireframes](assets/images/full%20wireframe.png)
 
@@ -39,7 +40,7 @@ The images used were professionally taken and were provided to me by the busines
 #### First time visitor goals
 * As a first time user, I want to easily understand the purpose of the site and learn more about the business.
 * As a first time user, I want to know what kind of classes are available.
-* As a first time user, I want to be able to navigate easily though the website.
+* As a first time user, I want to be able to navigate easily through the website.
 * As a first time user, I want to be able to find contact details.
 * As a first time user, I want to be able to find out information about the owner/yoga teacher.
 
@@ -85,16 +86,23 @@ The about me page has a brief personal description about Billy, underneath this 
 
 The book a class page has the same background as the About me page for consistency in the styling, the page consists of a simple-to-use form that has no uneccesary questions. There are clear prompts shown to the user if they don't enter the required information before submitting. Once the user has submited the form they are redirected to a 'thank you' page which enhances the user's experience.
 
+![Book a class page](assets/images/bookaclass-readme.png)
+
 ### Footer
 The footer is located at the bottom of the page and contains links to social media accounts using attractive icons.
 
 ![footer](assets/images/footer-readme.png)
+
+### Responsiveness
+
+The site is responsive from 270px and functions on a range of screen sizes. It was built prioritisig mobile's first and media queries were applied to ensure responsiveness on larger screen sizes. 
 
 ### Future features
  I would like to implement the following features in the future to allow for an improved user experience:
  - Sign up and Login feature to allow users a personalised experience.
  - A feature which shows users previous classes and upcoming classes.
  - A loyalty scheme where the user gets every 6th class free if they sign up on the site.
+ - A large library of video and images showing snippets of classes and yoga poses.
 
 # Testing
 
@@ -105,7 +113,7 @@ The footer is located at the bottom of the page and contains links to social med
 
 ## Responsiveness
 
-The site is fully responsive and functions on a range of screen sizes. It was built prioritisig mobile's first and media queries were applied to ensure responsiveness on larger screensizes. 
+Responsiveness was tested with Chrome Dev Tools and by changing the viewport from 270px and upwards. I also checked responsiveness on 'Am I Responsive' and Responsive test tool.
 
 ## Lighthouse Testing
 

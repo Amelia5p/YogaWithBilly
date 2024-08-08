@@ -230,7 +230,7 @@ a {
     font-weight: bold;
     border-radius: 5px;
     padding: 15px;
-    margin: 80px;
+    margin: 60px;
     color: rgb(40, 51, 75);
 }
 
@@ -506,6 +506,10 @@ h5 {
     #hero {
         margin-top: 60px;
     }
+
+    #about-text p {
+        margin: 75px;
+    }
 }
 
 /* Media Queries for 1200px and up */
@@ -543,6 +547,10 @@ h5 {
 
     #hero {
         margin-top: 70px;
+    }
+
+    #about-text p {
+        margin: 85px;
     }
 }
 
