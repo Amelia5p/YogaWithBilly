@@ -303,7 +303,7 @@ a{
 #about-bg{
    
     margin: auto;
-    background:url(../images/pexels-sunsetoned-7283618.jpg);
+    background:url(../images/cloud-bg.jpg);
    
 }
     
@@ -322,7 +322,7 @@ a{
     flex-direction: column;
     position: relative;
     margin: auto;
-    background:url(../images/pexels-sunsetoned-7283618.jpg);
+    background:url(../images/cloud-bg.jpg);
 }
 
 
