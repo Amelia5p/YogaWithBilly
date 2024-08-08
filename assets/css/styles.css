@@ -324,6 +324,7 @@ a{
     position: relative;
     margin: auto;
     background:url(../images/cloud-bg.jpg);
+    
 }
 
 
@@ -550,7 +551,7 @@ h5{
        #book {
        display: flex;
        flex-direction: row;
-       background: url(../images/pexels-sunsetoned-7283618.jpg);
+       background:url(../images/cloud-bg.jpg);;
        margin-top:50px;
     
 
