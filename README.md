@@ -86,12 +86,18 @@ The footer is located at the bottom of the page and contains links to social med
 
 ## Feature Testing 
 
-# Browsers Compatibility
+## Browsers Compatibility
 
 
-# Responsiveness
+## Responsiveness
 
-# Lighthouse Testing
+## Lighthouse Testing
+
+## Code Validation
+
+![Index Page Code Validation](assets/images/html-index-pg.png) 
+![About Me Page Code Validation](assets/images/html-aboutme-pg.png) 
+![Book a Class Page Code Validation](assets/images/html-bookaclass-pg.png) 
 
 
 
