@@ -38,7 +38,7 @@ header a {
     color: rgb(40, 51, 75);
 }
 
-h1 {
+#logo {
     font-family: "Raleway", sans-serif;
     font-weight: 500;
     letter-spacing: 1px;
@@ -410,9 +410,9 @@ select#time-dropdown {
     padding: 5px;
 }
 
-h5 {
+#thank-you-note {
     font-size: 26px;
-    font-weight: 200;
+    font-weight: 300;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -424,7 +424,6 @@ h5 {
     bottom: 0;
     width: 100vw;
     background-color: #fae5ce;
-    height: calc(100vh - 100px);
     box-shadow: 0 1px 1px rgb(40, 51, 75);
 }
 
@@ -436,6 +435,8 @@ h5 {
     list-style-type: none;
     width: 100%;
     background-color: #fae5ce;
+    border-top: .2px solid rgb(40, 51, 75);
+    
 }
 
 #socials i {

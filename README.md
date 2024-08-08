@@ -109,7 +109,7 @@ The site is responsive from 270px and functions on a range of screen sizes. It w
 ## Feature Testing 
 
 ## Browsers Compatibility
-
+The site was tested on Google Chrome, Safari, Firefox and Edge and functions and appears as it should across all major browsers.
 
 ## Responsiveness
 
