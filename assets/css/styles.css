@@ -220,6 +220,7 @@ h3{
     margin-top: 70px;
     margin-bottom: 70px;
     color: #fafafa;
+    width:fit-content;
     
 }
 
@@ -432,17 +433,6 @@ select#time-dropdown{
     font-size: 1rem;
     text-align: center;
 }
-/* 
-.blackandwhite {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width:100%;
-    margin-top: 5px;
-    max-width: 550px;
-    width: 100%;
-    margin: 0 auto;
-}  */
 
 
 /* Thanks page */

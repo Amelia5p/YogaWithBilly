@@ -82,7 +82,18 @@ The footer is located at the bottom of the page and contains links to social med
 
 ![footer](assets/images/footer-readme.png)
 
-### Responsiveness
+# Testing
+
+## Feature Testing 
+
+# Browsers Compatibility
+
+
+# Responsiveness
+
+# Lighthouse Testing
+
+
 
 ### Future features
  I would like to implement the following features in the future to allow for an improved user experience:
@@ -135,6 +146,7 @@ BUGS
 -- hero image wasnt 100 width - images in px which was stretching screen and didnt know what to priotritise- change to %
 -- hero image not showing up when deployed, fixed file path to solve issue.
 -- when changed text on pose-one etc pose two spilled out, had to set media query widths to fix.x
+-- error in html a tag nested in button 
 
 
 
