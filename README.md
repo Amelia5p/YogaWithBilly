@@ -82,6 +82,12 @@ The footer is located at the bottom of the page and contains links to social med
 
 ![footer](assets/images/footer-readme.png)
 
+### Future features
+ I would like to implement the following features in the future to allow for an improved user experience:
+ - Sign up and Login feature to allow users a personalised experience.
+ - A feature which shows users previous classes and upcoming classes.
+ - A loyalty scheme where the user gets every 6th class free if they sign up on the site.
+
 # Testing
 
 ## Feature Testing 
@@ -95,17 +101,23 @@ The footer is located at the bottom of the page and contains links to social med
 
 ## Code Validation
 
+#### HTML
+
+All pages were tested through the W3C validator with no errors:
+
 ![Index Page Code Validation](assets/images/html-index-pg.png) 
 ![About Me Page Code Validation](assets/images/html-aboutme-pg.png) 
 ![Book a Class Page Code Validation](assets/images/html-bookaclass-pg.png) 
 
+#### CSS
+
+The CSS stylesheet was tested through the W3C Validator with no errors:
+
+![CSS Code Validation](assets/images/css.png) 
 
 
-### Future features
- I would like to implement the following features in the future to allow for an improved user experience:
- - Sign up and Login feature to allow users a personalised experience.
- - A feature which shows users previous classes and upcoming classes.
- - A loyalty scheme where the user gets every 6th class free if they sign up on the site.
+
+
 
 
 

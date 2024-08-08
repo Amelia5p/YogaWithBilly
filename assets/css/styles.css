@@ -1,6 +1,6 @@
 /* Fonts */
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 
 * {
     padding: 0;
@@ -11,15 +11,13 @@
 /* body */
 
 body {
-    font-family: 'lato', sans-serif;
+    font-family: "lato", sans-serif;
     display: flex;
     flex-direction: column;
     background-color: #fff4e2;
     color: black;
     min-height: 100vh;
-    
-   
-    }
+}
 
 /* header */
 
@@ -33,8 +31,6 @@ header {
     justify-content: space-between;
     align-items: baseline;
     margin-bottom: 40px;
-    
-    
 }
 
 header a {
@@ -42,56 +38,47 @@ header a {
     color: rgb(40, 51, 75);
 }
 
-h1{
-    font-family: 'Raleway' , sans-serif;
+h1 {
+    font-family: "Raleway", sans-serif;
     font-weight: 500;
     letter-spacing: 1px;
     display: flex;
     padding-top: 20px;
     padding-left: 20px;
-    color:  rgb(40, 51, 75);
-    
+    color: rgb(40, 51, 75);
 }
 
 #menu {
     list-style-type: none;
     font-size: 1.5rem;
-    font-family: 'Raleway' , sans-serif;
+    font-family: "Raleway", sans-serif;
     padding-bottom: 10px;
-    }
-
-    
+}
 
 ul li:hover {
-   opacity: 75%;
-    
-    
+    opacity: 75%;
 }
 
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #fae5ce;;
+    background-color: #fae5ce;
     width: 100%;
     left: 0;
     padding: 0 1rem;
     display: none;
     top: 100%;
     box-shadow: 0 1px 1px rgb(40, 51, 75);
-
 }
 
-.active-nav{
+.active-nav {
     text-decoration: underline;
     color: rgb(40, 51, 75);
-
 }
 
 /* Nav toggle */
-#nav-toggle:checked~nav {
+#nav-toggle:checked ~ nav {
     display: block;
-    
-  
 }
 
 #nav-toggle {
@@ -105,26 +92,23 @@ nav {
     padding-right: 20px;
 }
 
-
 /* Main */
 
-    
 /* Hero section */
 
 #hero {
-    background: url(../images/hero-big.jpg) no-repeat center center /cover;
+    background: url(../images/hero-big.webp) no-repeat center center / cover;
     height: 800px;
-    width:100%;
+    width: 100%;
     position: relative;
     padding-bottom: 0;
     margin-top: 60px;
-
 }
 
 #hero-text {
     padding-left: 10px;
     padding-top: 270px;
-    color: rgb(164, 76, 3, .9);
+    color: rgb(164, 76, 3, 0.9);
 }
 
 h2 {
@@ -135,80 +119,70 @@ h2 {
     font-weight: bold;
     padding: 2px;
     border-radius: 5px;
-    
-    
-
 }
 
-h3{
+h3 {
     font-size: 3rem;
 }
 
 /* Images and yoga text */
 
-.practices{
+.practices {
     color: rgb(164, 76, 3);
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-weight: 300;
     text-align: center;
     padding: 50px;
-    background-color:#fff4e2;
+    background-color: #fff4e2;
 }
 
-#yoga-poses{
+#yoga-poses {
     display: grid;
-    place-items: center;  
+    place-items: center;
     padding-top: 20px;
     background-color: #fff4e2;
 }
-    
-.poses{
+
+.poses {
     height: 200px;
     width: 200px;
     border-radius: 100px;
-    
-    
 }
 
 #yoga-poses p {
-   
-    place-items: center;  
+    place-items: center;
     text-align: center;
     padding: 30px;
     color: rgb(40, 51, 75);
-
 }
-    
 
-#yoga-poses h4{
+#yoga-poses h4 {
     display: grid;
-    place-items: center; 
-    padding-top: 20px; 
+    place-items: center;
+    padding-top: 20px;
     font-size: 1.5rem;
     color: rgb(40, 51, 75);
-    
 }
 
-
-#pose-one{
+#pose-one {
     display: grid;
-    place-items: center;  
-}
-    
-#pose-two{
-    display: grid;
-    place-items: center;  
+    place-items: center;
 }
 
-#pose-three{
+#pose-two {
     display: grid;
-    place-items: center;  
+    place-items: center;
+}
+
+#pose-three {
+    display: grid;
+    place-items: center;
 }
 
 /* Button */
 
-#book-button{
-    font-family: 'Raleway';
+#book-button {
+    font-family: "Raleway";
     font-size: 1rem;
     font-weight: 200;
     border: 1px solid rgb(164, 76, 3);
@@ -220,24 +194,21 @@ h3{
     margin-top: 70px;
     margin-bottom: 70px;
     color: #fafafa;
-    width:fit-content;
-    
+    width: fit-content;
 }
 
-#book-button:hover{
+#book-button:hover {
     opacity: 80%;
 }
 
-#button-section{
+#button-section {
     background-color: #fff4e2;
 }
 
-a{
+a {
     text-decoration: none;
     color: white;
 }
-
-
 
 /* About me Page */
 
@@ -245,10 +216,9 @@ a{
     padding-top: 180px;
     font-size: 2.5rem;
     text-align: center;
-    font-family: 'Raleway', sans-serif;
+    font-family: "Raleway", sans-serif;
     color: rgb(40, 51, 75);
     font-weight: 600;
-    
 }
 
 #about-text p {
@@ -264,69 +234,58 @@ a{
     color: rgb(40, 51, 75);
 }
 
-
-.card-container{
+.card-container {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 100px;
-
 }
 
-.card{
+.card {
     width: 325px;
     background-color: #9db8cf;
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0px 2px 4px rgba (0,0,0, 0.2);
+    box-shadow:  0px 2px 4px rgba(0, 0, 0, 0.2);
     margin: 20px;
     color: rgb(40, 51, 75);
     text-align: center;
     padding-bottom: 10px;
 }
 
-.card h3{
+.card h3 {
     text-align: center;
     font-size: 2rem;
     padding-bottom: 8px;
 }
 
-
-.about-img{
+.about-img {
     width: 100%;
     height: auto;
 }
-    
+
 .card-content {
     padding: 16px;
 }
 
-#about-bg{
-   
+#about-bg {
     margin: auto;
-    background:url(../images/cloud-bg.jpg);
-   
+    background: url(../images/cloud-bg.jpg);
 }
-    
-    
-
 
 /*Book a class Page */
 
 /*Form */
 
 #book {
-    
     min-height: 100vh;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
     position: relative;
     margin: auto;
-    background:url(../images/cloud-bg.jpg);
-    
+    background: url(../images/cloud-bg.jpg);
 }
-
 
 #book-a-class {
     color: rgb(40, 51, 75);
@@ -338,15 +297,12 @@ a{
     margin: 0 auto;
     margin-top: 150px;
     height: 100%;
-    box-shadow:  rgb(38, 57, 77) 0px 20px 30px -10px;
-   
-    
-    
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 /* Heading on form */
 
-#book-a-class>h2 {
+#book-a-class > h2 {
     color: rgb(40, 51, 75);
     margin-bottom: 40px;
     background-color: inherit;
@@ -359,14 +315,13 @@ a{
     margin-bottom: 40px;
     margin-top: 40px;
     font-size: 2rem;
-    font-family: 'Raleway', sans-serif;
-    
+    font-family: "Raleway", sans-serif;
 }
 
 /*Text inpits */
 
 .text-input {
-    background: #fff4e2;;
+    background: #fff4e2;
     color: rgb(40, 51, 75);
     width: 100%;
     height: 25px;
@@ -374,7 +329,6 @@ a{
     border: 2px solid rgb(40, 51, 75);
     border-radius: 5px;
     padding: 0 5px;
-    
 }
 
 /* Radio Buttons */
@@ -383,16 +337,15 @@ a{
     font-size: 20px;
 }
 
-.yoga-type{
+.yoga-type {
     padding-top: 8px;
 }
 
 #radio-buttons {
-   
     margin: 5px 0 20px 0;
 }
 
-#book label  {
+#book label {
     font-size: 1rem;
     font-weight: bold;
 }
@@ -414,13 +367,13 @@ a{
     padding-bottom: 20px;
 }
 
-input#date-picker{
+input#date-picker {
     height: 25px;
-    margin:5px
+    margin: 5px;
 }
 
-select#time-dropdown{
-    height:25px;
+select#time-dropdown {
+    height: 25px;
     margin: 5px;
 }
 
@@ -430,16 +383,14 @@ select#time-dropdown{
     color: black;
 }
 
-.contact{
+.contact {
     font-size: 1rem;
     text-align: center;
 }
 
-
 /* Thanks page */
 
 .thank-you {
-  
     color: rgb(40, 51, 75);
     background: #9db8cf;
     padding: 20px;
@@ -449,33 +400,24 @@ select#time-dropdown{
     margin: 0 auto;
     margin-top: 150px;
     height: 100%;
-    box-shadow:  rgb(38, 57, 77) 0px 20px 30px -10px;
-    
-    
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .thank-you h2 {
     font-size: 3rem;
     text-align: center;
     margin: 0 auto;
-    padding:5px;
+    padding: 5px;
 }
 
-
-
-h5{
+h5 {
     font-size: 26px;
-    font-weight: 200px;
+    font-weight: 200;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-
-
-
-    
-    /*Footer*/
-
+/*Footer*/
 
 .footer {
     position: fixed;
@@ -484,22 +426,16 @@ h5{
     background-color: #fae5ce;
     height: calc(100vh - 100px);
     box-shadow: 0 1px 1px rgb(40, 51, 75);
-    
-  
-   
-    
-     
 }
 
 #socials {
     text-align: center;
     display: flex;
     justify-content: center;
-    padding:40px;
+    padding: 40px;
     list-style-type: none;
     width: 100%;
     background-color: #fae5ce;
-   
 }
 
 #socials i {
@@ -507,22 +443,17 @@ h5{
     font-size: 2rem;
     padding-left: 20px;
     justify-content: space-between;
-    
 }
 
 /* Media Queries for 768px and up */
 
-@media screen and (min-width: 768px){
-
-    
-/* header */
-    .nav-toggle-label{
-        display:none;
+@media screen and (min-width: 768px) {
+    /* header */
+    .nav-toggle-label {
+        display: none;
     }
 
-
     nav {
-        
         display: block;
         position: relative;
         box-shadow: none;
@@ -531,38 +462,31 @@ h5{
         align-items: flex-end;
     }
 
-        #menu{
-            display: flex;
-            justify-content: space-evenly;
-            color:rgb(40, 51, 75);
-        }
+    #menu {
+        display: flex;
+        justify-content: space-evenly;
+        color: rgb(40, 51, 75);
+    }
 
-        #menu li {
-            padding-left: 20px;
-            color: rgb(40, 51, 75);
-        }
+    #menu li {
+        padding-left: 20px;
+        color: rgb(40, 51, 75);
+    }
 
-        h2{
-            font-size: 3rem;
-        }
-        
+    h2 {
+        font-size: 3rem;
+    }
 
-        /* Form */
+    /* Form */
 
-       #book {
-       display: flex;
-       flex-direction: row;
-       background:url(../images/cloud-bg.jpg);;
-       margin-top:50px;
-    
+    #book {
+        display: flex;
+        flex-direction: row;
+        background: url(../images/cloud-bg.jpg);
+        margin-top: 50px;
+    }
 
-       }
-
-        
-      
-
-       
-       #book-a-class {
+    #book-a-class {
         color: rgb(40, 51, 75);
         background: #9db8cf;
         padding: 30px;
@@ -575,79 +499,61 @@ h5{
         margin-top: 100px;
         margin-bottom: 20px;
         height: 100%;
-        box-shadow:  rgb(38, 57, 77) 0px 20px 30px -10px;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
         font-size: 1rem;
-        
-        
     }
-
 
     #hero {
-
         margin-top: 60px;
-    
     }
-
-
-    
-
-    }
-
-
-    /* Media Queries for 1200px and up */
-
-    @media screen and (min-width: 1200px){
-
-        #yoga-poses{
-            display: flex;
-        }
-
-        .practices{
-            color: rgb(164, 76, 3);
-            font-family: 'Raleway';
-            font-weight: 300;
-            text-align: center;
-            padding: 50px;
-        }
-
-        #socials i {
-            font-size: 2rem;
-        }
-
-        #pose-one{
-            width: 33%;
-        }
-        #pose-two{
-            width: 33%;
-        }
-        #pose-three{
-            width: 33%;
-        }
-
-        h2{
-            font-size: 3.5rem;
-        }
-
-
-        #hero {
-
-            margin-top: 70px;
-        
-        }
-
-    }
-
-
-    @media screen and (max-width: 768px){
-#book-a-class{
-    margin-top: 100px;
 }
+
+/* Media Queries for 1200px and up */
+
+@media screen and (min-width: 1200px) {
+    #yoga-poses {
+        display: flex;
     }
 
-    @media screen and (max-width: 500px){
-        #book-a-class{
-            margin-top: 50px;
-        }
-
-        
+    .practices {
+        color: rgb(164, 76, 3);
+        font-family: "Raleway";
+        font-weight: 300;
+        text-align: center;
+        padding: 50px;
     }
+
+    #socials i {
+        font-size: 2rem;
+    }
+
+    #pose-one {
+        width: 33%;
+    }
+    #pose-two {
+        width: 33%;
+    }
+    #pose-three {
+        width: 33%;
+    }
+
+    h2 {
+        font-size: 3.5rem;
+    }
+
+    #hero {
+        margin-top: 70px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #book-a-class {
+        margin-top: 100px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #book-a-class {
+        margin-top: 50px;
+    }
+}
