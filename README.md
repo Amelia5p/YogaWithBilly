@@ -140,52 +140,8 @@ The CSS stylesheet was tested through the W3C Validator with no errors:
 ![CSS Code Validation](assets/images/css.png) 
 
 
-
-
-
-
-
-
-# Credits
-
-## Images and content
-
-- All images used on the site were taken professionally and provided to me by the owner of the business.
-
-## Background Image
-
-- The only image I sourced was from Pexels https://www.pexels.com/photo/bright-sky-with-fluffy-clouds-7283618/
-
-## Favicon
-
-- <a href="https://favicon.io/favicon-converter/#google_vignette"> Favicon Converter</a>
-- <a href="https://www.canva.com/"> Canva</a>
- 
-
-
-
-## Other
-- <a href="https://fonts.google.com/"> Google Fonts</a>
-- <a href="https://www.w3schools.com/"> W3schools</a>
-- <a href="https://colors.muz.li/"> Muzli Colors</a>
-- <a href="https://www.shutterstock.com/image-resizer">Shutterstock to resize images</a>
-
-
-## Code / Educational Resources
-
-
-- How to create cards: https://www.youtube.com/watch?v=9FNNkzPBFcE
-- Code institutes 'Love Running' project.
-- Information regarding yoga practices: <a href="https://fusionwellness.com.au/">Fusion wellness</a>
-
-
-
-
-
-
-
-
 # Bugs
+
 Debugging and problem solving were done consistently throughout the development process.
 
 List of some issues that arised:
@@ -194,8 +150,6 @@ List of some issues that arised:
 * hero image not showing up when deployed, fixed file path to solve issue.
 * When the text was changed on the homepage under the title Yin Yoga, the text underneath Vinyasa yoga spilled out, fixed by setting media queries width. 
 * Error in html a tag nested in button, fixed this by removing the button element.
-
-
 
 # Deployment
 
@@ -263,21 +217,37 @@ Click Create a Fork.
 
 There is now a forked copy on Github.
 
+# Credits
+
+## Images and content
+
+- All images used on the site were taken professionally and provided to me by the owner of the business.
+
+## Background Image
+
+- The only image I sourced was from Pexels https://www.pexels.com/photo/bright-sky-with-fluffy-clouds-7283618/
+
+## Favicon
+
+- <a href="https://favicon.io/favicon-converter/#google_vignette"> Favicon Converter</a>
+- <a href="https://www.canva.com/"> Canva</a>
+ 
 
 
 
+## Other
+- <a href="https://fonts.google.com/"> Google Fonts</a>
+- <a href="https://www.w3schools.com/"> W3schools</a>
+- <a href="https://colors.muz.li/"> Muzli Colors</a>
+- <a href="https://www.shutterstock.com/image-resizer">Shutterstock to resize images</a>
 
 
+## Code / Educational Resources
 
 
-
-
-
-----
-Responsive Navbar With Only HTML & CSS -Coding Artist
-https://www.youtube.com/watch?v=qKqLMlBKHlE
-
-dropdown copied from Love running vids
+- How to create cards: https://www.youtube.com/watch?v=9FNNkzPBFcE
+- Code institutes 'Love Running' project.
+- Information regarding yoga practices: <a href="https://fusionwellness.com.au/">Fusion wellness</a>
 
 
 
