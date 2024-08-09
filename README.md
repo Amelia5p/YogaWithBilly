@@ -148,13 +148,41 @@ The CSS stylesheet was tested through the W3C Validator with no errors:
 
 # Credits
 
-## Favicon
+## Images and content
 
-https://favicon.io/favicon-converter/#google_vignette
+- All images used on the site were taken professionally and provided to me by the owner of the business.
 
 ## Background Image
 
-https://www.pexels.com/photo/bright-sky-with-fluffy-clouds-7283618/
+- The only image I sourced was from Pexels https://www.pexels.com/photo/bright-sky-with-fluffy-clouds-7283618/
+
+## Favicon
+
+- <a href="https://favicon.io/favicon-converter/#google_vignette"> Favicon Converter</a>
+- <a href="https://www.canva.com/"> Canva</a>
+ 
+
+
+
+## Other
+- <a href="https://fonts.google.com/"> Google Fonts</a>
+- <a href="https://www.w3schools.com/"> W3schools</a>
+- <a href="https://colors.muz.li/"> Muzli Colors</a>
+- <a href="https://www.shutterstock.com/image-resizer">Shutterstock to resize images</a>
+
+
+## Code / Educational Resources
+
+
+- How to create cards: https://www.youtube.com/watch?v=9FNNkzPBFcE
+- Code institutes 'Love Running' project.
+- Information regarding yoga practices: <a href="https://fusionwellness.com.au/">Fusion wellness</a>
+
+
+
+
+
+
 
 
 # Bugs
@@ -259,13 +287,10 @@ dropdown copied from Love running vids
 
 
 
-to describe dif yogas used :https://fusionwellness.com.au/yin-hatha-vinyasa-yoga-casuarina/#:~:text=Hatha%20yoga%20is%20gentler%20than,that%20build%20strength%20and%20flexibility.
 
  
 
-how to create cards: https://www.youtube.com/watch?v=9FNNkzPBFcE
 
-image re-sizer https://www.shutterstock.com/image-resizer
 
 
 
