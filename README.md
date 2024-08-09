@@ -169,9 +169,71 @@ List of some issues that arised:
 
 
 
+# Deployment
+
+This site has been built on Gitpod, the code was then pushed to Github where it was deployed.
+
+### Step 1:
+
+From the <a href="https://github.com/Amelia5p/YogaWithBilly" target="_blank">Github repository</a> click on settings which is near the top op the right side of the page.
+
+![Deployment step one](assets/images/dep-s1-readme.png)
+
+### Step 2:
+From the options listed on the left hand side of the page, click 'Pages'.
+
+![Deployment step one](assets/images/dep-s2-readme.png)
+
+### Step 3:
+From the drop down menu under source select deploy from branch. From the dropdown menu's under branch select 'Main' and 'Root' then click save.
+
+![Deployment step one](assets/images/dep-s3-readme.png)
+
+### Result:
+The page will be refreshed and you will see the link to the live site.
+
+![Deployment step one](assets/images/dep-rs-readme.png)
 
 
+# Cloning Repository
 
+### Step 1: 
+
+From the <a href="https://github.com/Amelia5p/YogaWithBilly" target="_blank">Github repository</a> click on the 'code' button.
+
+### Step 2:
+
+Click 'local' on the top of the drop down menu and copy the URL.
+
+### Step 3:
+
+Open Git Bash on windows and change the working directory to the location where you want the cloned directory.
+
+### Step 4:
+
+Type 'Git clone' followed by a space and paste the URL previously copied, hit enter.
+
+### Result:
+
+You now have a local copy of the Github repository.
+
+# Forking Repository
+
+### Step 1:
+
+From the <a href="https://github.com/Amelia5p/YogaWithBilly" target="_blank">Github repository</a> click on the 'fork' button in the top right corner of the page. 
+
+### Step 2:
+
+Choose to copy only the main branch or all branches to the new fork.
+
+### Step 3: 
+
+Click Create a Fork.
+
+### Result:
+
+There is now a forked copy on Github.
 
 
 
