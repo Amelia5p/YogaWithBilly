@@ -249,6 +249,10 @@ There is now a forked copy on Github.
 - Code institutes 'Love Running' project.
 - Information regarding yoga practices: <a href="https://fusionwellness.com.au/">Fusion wellness</a>
 
+# Acknowledgements 
+This is project one, created for the Code Institutes Full Stack Web Developer (eCommerce) course. I would like to thank my cohort facilitator Laura, my mentor and the code institute team for their support.
+
+
 
 
 
