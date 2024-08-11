@@ -6,8 +6,75 @@ Yoga with Billy is a website for yoga lovers. The site's aim is to promote Billy
 
 Live site: https://amelia5p.github.io/YogaWithBilly/
 
-![Responsive Site](assets/images/responsive.png)
+![Responsive Site](assets/images/responsive.png) 
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+<details>
+<summary>Table of Contents </summary>
+
+- [Yoga With Billy](#yoga-with-billy)
+  * [Site Overview](#site-overview)
+- [User Experience](#user-experience)
+  * [Design](#design)
+    + [Wireframes](#wireframes)
+    + [Color Palette](#color-palette)
+    + [Typography](#typography)
+    + [Images](#images)
+  * [User Stories](#user-stories)
+      - [First time visitor goals](#first-time-visitor-goals)
+      - [Returning visitor goals](#returning-visitor-goals)
+- [Site Structure](#site-structure)
+  * [Features](#features)
+    + [Navigation Bar](#navigation-bar)
+    + [Hero section/ landing content](#hero-section--landing-content)
+    + [Homepage](#homepage)
+    + [About me page](#about-me-page)
+    + [Book a class page](#book-a-class-page)
+    + [Thank you page](#thank-you-page)
+    + [Footer](#footer)
+    + [Responsiveness](#responsiveness)
+    + [Future features](#future-features)
+- [Testing](#testing)
+  * [Feature Testing](#feature-testing)
+  * [Browsers Compatibility](#browsers-compatibility)
+  * [Responsiveness](#responsiveness-1)
+  * [Lighthouse Testing](#lighthouse-testing)
+  * [Code Validation](#code-validation)
+      - [HTML](#html)
+      - [CSS](#css)
+- [Bugs](#bugs)
+- [Deployment](#deployment)
+    + [Step 1:](#step-1-)
+    + [Step 2:](#step-2-)
+    + [Step 3:](#step-3-)
+    + [Result:](#result-)
+- [Cloning Repository](#cloning-repository)
+    + [Step 1:](#step-1--1)
+    + [Step 2:](#step-2--1)
+    + [Step 3:](#step-3--1)
+    + [Step 4:](#step-4-)
+    + [Result:](#result--1)
+- [Forking Repository](#forking-repository)
+    + [Step 1:](#step-1--2)
+    + [Step 2:](#step-2--2)
+    + [Step 3:](#step-3--2)
+    + [Result:](#result--2)
+- [Credits](#credits)
+  * [Images and content](#images-and-content)
+  * [Background Image](#background-image)
+  * [Favicon](#favicon)
+  * [Other](#other)
+  * [Code / Educational Resources](#code---educational-resources)
+- [Acknowledgements](#acknowledgements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+</details>
+
+<!-- TOC end -->
+
+<br><br>
 
 # User Experience
 
@@ -37,14 +104,14 @@ The images used were professionally taken and were provided to me by the busines
 
 ## User Stories
 
-#### First time visitor goals
+### First time visitor goals
 * As a first time user, I want to easily understand the purpose of the site and learn more about the business.
 * As a first time user, I want to know what kind of classes are available.
 * As a first time user, I want to be able to navigate easily through the website.
 * As a first time user, I want to be able to find contact details.
 * As a first time user, I want to be able to find out information about the owner/yoga teacher.
 
-#### Returning visitor goals
+### Returning visitor goals
 * As a returning user, I want to be able to navigate through the website on multiple devices.
 * As a returning user, I want to be able to book a class seamlessly. 
 * As a returning user, I want to be able to easily find social media links.
@@ -114,6 +181,18 @@ The site is responsive from 270px and functions on a range of screen sizes. It w
 
 ## Feature Testing 
 
+| Feature | Action | Result |
+| ---|---|:---:|
+| Logo | Brings to homepage when clicked | PASS |
+| Navigation Menu/Hamburger Menu | Brings you to correct pages, lets you know what page you are currently on | PASS |
+| Book a class button | Brings you to form page to book class | PASS |
+| Social Media Links | Brings you to external social media pages | PASS |
+| Form Submission | When you submit the form it brings you to thank you page | PASS |
+| Form Inputs | Must enter required data into each input field | PASS |
+
+
+
+
 ## Browsers Compatibility
 The site was tested on Google Chrome, Safari, Firefox and Edge and functions and appears as it should across all major browsers.
 
@@ -142,78 +221,78 @@ The CSS stylesheet was tested through the W3C Validator with no errors:
 
 # Bugs
 
-Debugging and problem solving were done consistently throughout the development process.
+Debugging and problem solving was done consistently throughout the development process.
 
 List of some issues that arised:
 
-* The hero image wasn't 100 in width and image in px which was stretching screen and didnt know what to priotritise- change to %
-* hero image not showing up when deployed, fixed file path to solve issue.
-* When the text was changed on the homepage under the title Yin Yoga, the text underneath Vinyasa yoga spilled out, fixed by setting media queries width. 
-* Error in html a tag nested in button, fixed this by removing the button element.
+* The hero image wasn't 100% in width and image was in px which was stretching across the screen and didn't know what to priotritise- change to %.
+* The hero image was not showing up when I deployed for the first time, I fixed the file path to solve this issue.
+* When the text was changed on the homepage under the title Yin Yoga, the text underneath Vinyasa yoga spilled out, I fixed this issue by setting media queries with width values. 
+* There was an error in my HTML, I had an anchor tag nested within my button element, I realised this was an issue and fixed it by removing the button element.
 
 # Deployment
 
 This site has been built on Gitpod, the code was then pushed to Github where it was deployed.
 
-### Step 1:
+### <ins>Step 1:</ins>
 
 From the <a href="https://github.com/Amelia5p/YogaWithBilly" target="_blank">Github repository</a> click on settings which is near the top op the right side of the page.
 
 ![Deployment step one](assets/images/dep-s1-readme.png)
 
-### Step 2:
+### <ins>Step 2:</ins>
 From the options listed on the left hand side of the page, click 'Pages'.
 
 ![Deployment step one](assets/images/dep-s2-readme.png)
 
-### Step 3:
+### <ins>Step 3: </ins>
 From the drop down menu under source select deploy from branch. From the dropdown menu's under branch select 'Main' and 'Root' then click save.
 
 ![Deployment step one](assets/images/dep-s3-readme.png)
 
-### Result:
+### <ins>Result:</ins>
 The page will be refreshed and you will see the link to the live site.
 
 ![Deployment step one](assets/images/dep-rs-readme.png)
 
 
-# Cloning Repository
+## Cloning Repository
 
-### Step 1: 
+### <ins> Step 1: </ins>
 
 From the <a href="https://github.com/Amelia5p/YogaWithBilly" target="_blank">Github repository</a> click on the 'code' button.
 
-### Step 2:
+### <ins> Step 2:</ins>
 
 Click 'local' on the top of the drop down menu and copy the URL.
 
-### Step 3:
+### <ins>Step 3: </ins>
 
 Open Git Bash on windows and change the working directory to the location where you want the cloned directory.
 
-### Step 4:
+### <ins>Step 4: </ins>
 
 Type 'Git clone' followed by a space and paste the URL previously copied, hit enter.
 
-### Result:
+### <ins> Result: </ins> 
 
 You now have a local copy of the Github repository.
 
-# Forking Repository
+## Forking Repository
 
-### Step 1:
+### <ins>Step 1:</ins>
 
 From the <a href="https://github.com/Amelia5p/YogaWithBilly" target="_blank">Github repository</a> click on the 'fork' button in the top right corner of the page. 
 
-### Step 2:
+### <ins>Step 2:</ins> 
 
 Choose to copy only the main branch or all branches to the new fork.
 
-### Step 3: 
+### <ins>Step 3: </ins>
 
 Click Create a Fork.
 
-### Result:
+### <ins>Result:</ins>
 
 There is now a forked copy on Github.
 
