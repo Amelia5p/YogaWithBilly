@@ -2,7 +2,8 @@
 
 ## Site Overview
 
-Yoga with Billy is a website for yoga lovers. The site's aim is to promote Billy's yoga classes. The website provides an introduction to different yoga styles taught by Billy. It also allows users to get to know Billy better and allows users to sign up to his classes seamlessly.
+Yoga with Billy is a user friendly website for yoga lovers. The website offers users an opportunity to learn about yoga practices, book classes, and get to know the instructor, Billy. 
+
 
 Live site: https://amelia5p.github.io/YogaWithBilly/
 
@@ -242,6 +243,7 @@ List of some issues that arised:
 * The hero image was not showing up when I deployed for the first time, I fixed the file path to solve this issue.
 * When the text was changed on the homepage under the title Yin Yoga, the text underneath Vinyasa yoga spilled out, I fixed this issue by setting media queries with width values. 
 * There was an error in my HTML, I had an anchor tag nested within my button element, I realised this was an issue and fixed it by removing the button element.
+* The footer on the about me page was twice the height it should be, fixed this by setting the background image at 100vh which pushed the footer down.
 
 # Deployment
 
