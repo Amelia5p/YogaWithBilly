@@ -242,7 +242,7 @@ Debugging and problem solving was done consistently throughout the development p
 
 List of some issues that arose:
 
-* The hero image wasn't 100% in width and image was in px which was stretching across the screen and didn't know what to priotritise- change to %.
+* The hero image was not going the full width of the page, the fix was to add 100% width in my CSS.
 * The hero image was not showing up when I deployed for the first time, I fixed the file path to solve this issue.
 * When the text was changed on the homepage under the title Yin Yoga, the text underneath Vinyasa yoga spilled out, I fixed this issue by setting media queries with width values. 
 * There was an error in my HTML, I had an anchor tag nested within my button element, I realised this was an issue and fixed it by removing the button element.
