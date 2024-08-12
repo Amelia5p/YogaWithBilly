@@ -119,6 +119,7 @@ nav {
     font-weight: bold;
     padding: 2px;
     border-radius: 5px;
+    margin-bottom: 300px;
 }
 
 
@@ -238,6 +239,7 @@ a {
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 100px;
+    padding-bottom: 100px;
 }
 
 .card {
@@ -260,7 +262,7 @@ a {
 
 .about-img {
     width: 100%;
-    height: auto;
+    
 }
 
 .card-content {
@@ -270,7 +272,10 @@ a {
 #about-bg {
     margin: auto;
     background: url(../images/cloud-bg.jpg);
+    
 }
+
+
 
 /*Book a class Page */
 
@@ -423,13 +428,7 @@ select#time-dropdown {
 
 /*Footer*/
 
-.footer {
-    position: fixed;
-    bottom: 0;
-    width: 100vw;
-    background-color: #fae5ce;
-    box-shadow: 0 1px 1px rgb(40, 51, 75);
-}
+
 
 #socials {
     text-align: center;
@@ -448,7 +447,9 @@ select#time-dropdown {
     font-size: 2rem;
     padding-left: 20px;
     justify-content: space-between;
+    
 }
+
 
 /* Media Queries for 768px and up */
 
@@ -515,11 +516,28 @@ select#time-dropdown {
             padding-top:200px;
         }
         
+
+    #about-text p {
+        margin: 75px;
+    }
+
+
     }
 
     #about-text p {
         margin: 75px;
     }
+
+    /* Media Query for 1095px footer*/
+    @media screen and (min-width: 1095px) {
+        /* header */
+        #about-bg {
+           padding-bottom: 50px;
+            
+
+        }
+    }
+    
 
 /* Media Queries for 1200px and up */
 
@@ -555,7 +573,7 @@ select#time-dropdown {
     }
 
     #hero {
-        margin-top: 70px;
+        margin-top: 68px;
         height: 800px;
         padding-top:100px;
     }
