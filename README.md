@@ -201,6 +201,7 @@ The site was tested on Google Chrome, Safari, Firefox and Edge and functions and
 Responsiveness was tested with Chrome Dev Tools and by changing the viewport from 270px and upwards. I also checked responsiveness on 'Am I Responsive' and Responsive test tool.
 
 ## Lighthouse Testing
+The lighthouse testing was successful with scores above 90 across all pages for all four ratings (perfomance, accessibility, best practices and SEO)
 
 ### Home page
 ![Homepage lighthouse testing](assets/images/home-lh.png)
