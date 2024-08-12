@@ -97,8 +97,8 @@ nav {
 /* Hero section */
 
 #hero {
-    background: url(../images/test1.jpg) no-repeat center center / cover;
-    height: 800px;
+    background: url(../images/hero.avif) no-repeat center center / cover;
+    
     width: 100%;
     position: relative;
     padding-bottom: 0;
@@ -510,6 +510,7 @@ select#time-dropdown {
 
     #hero {
         margin-top: 60px;
+        
     }
 
     #about-text p {
@@ -552,6 +553,7 @@ select#time-dropdown {
 
     #hero {
         margin-top: 70px;
+        height: 700px;
     }
 
     #about-text p {
@@ -569,4 +571,6 @@ select#time-dropdown {
     #book-a-class {
         margin-top: 50px;
     }
+
 }
+
