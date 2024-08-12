@@ -202,13 +202,25 @@ Responsiveness was tested with Chrome Dev Tools and by changing the viewport fro
 
 ## Lighthouse Testing
 
+### Home page
+![Homepage lighthouse testing](assets/images/home-lh.png)
+
+### About me page
+![About me lighthouse testing](assets/images/aboutme-lh.png)
+
+### Book a class page
+![Book a class lighthouse testing](assets/images/bookclass-lh.png)
+
+### Thank you page
+![Thank you lighthouse testing](assets/images/thanks-lh.png)
+
 ## Code Validation
 
 #### HTML
 
 All pages were tested through the W3C validator with no errors:
 
-![Index Page Code Validation](assets/images/html-index-pg.png) 
+![Home Page Code Validation](assets/images/html-index-pg.png) 
 ![About Me Page Code Validation](assets/images/html-aboutme-pg.png) 
 ![Book a Class Page Code Validation](assets/images/html-bookaclass-pg.png) 
 
