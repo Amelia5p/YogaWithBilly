@@ -299,7 +299,7 @@ a {
     max-width: 550px;
     width: 100%;
     margin: 0 auto;
-    margin-top: 150px;
+    margin-top: 180px;
     height: 100%;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
@@ -594,10 +594,6 @@ select#time-dropdown {
     
 }
 
-@media screen and (max-width: 500px) {
-    #book-a-class {
-        margin-top: 50px;
-    }
 
-}
+
 
