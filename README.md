@@ -2,7 +2,7 @@
 
 ## Site Overview
 
-Yoga with Billy is a user friendly website for yoga lovers. The website offers users an opportunity to learn about yoga practices, book classes, and get to know the instructor, Billy. 
+Yoga with Billy is a user-friendly website for yoga lovers. The website offers users an opportunity to learn about yoga practices, book classes, and get to know the instructor, Billy. 
 
 
 Live site: https://amelia5p.github.io/YogaWithBilly/
@@ -81,7 +81,7 @@ Live site: https://amelia5p.github.io/YogaWithBilly/
 
 ## Design
 
-Wireframes were made in Balsamiq to ensure a clear and easy development process, however please note the final design may not match these wireframes exactly as there were many iterations explored. The color palette was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website inspired the color scheme, this created a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
+Wireframes were made in Balsamiq to ensure a clear and easy development process, however please note that the final design may not match these wireframes exactly as many iterations were explored. The color palette was created using Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website inspired the color scheme, this created a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
 
 
 
@@ -122,7 +122,7 @@ The images used were professionally taken and were provided to me by the busines
 
 # Site Structure
 
-There are currently three pages on the website: Home, About me and Book a class there is also a thank you page that the user will be redirected to once they submit the form. The landing page is the home page. The other pages are easily visible and accessible in the navigation bar at the top. The logo which is also at the top of the page, when clicked, brings the user back to the homepage. 
+There are currently three pages on the website: Home, About me and Book a class there is also a thank you page to which  the user will be redirected once they submit the form. The landing page is the home page. The other pages are easily visible and accessible in the navigation bar at the top. The logo which is also at the top of the page, when clicked, brings the user back to the homepage. 
 
 ## Features
 
@@ -152,13 +152,13 @@ The about me page has a brief personal description about Billy, underneath this 
 
 ### Book a class page 
 
-The book a class page has the same background as the About me page for consistency in the styling, the page consists of a simple-to-use form that has no unnecessary questions. There are clear prompts shown to the user if they don't enter the required information before submitting. Once the user has submited the form they are redirected to a 'thank you' page which enhances the user's experience.
+The book a class page has the same background as the About me page for consistency in the styling, the page consists of a simple-to-use form that has no unnecessary questions. There are clear prompts shown to the user if they don't enter the required information before submitting. Once the user has submitted the form they are redirected to a 'thank you' page which enhances the user's experience.
 
 ![Book a class page](assets/images/readme-images/bookaclass-readme.png)
 
 ### Thank you page
 
-The thank you page has a thank you note and is styled the same as the other pages, its purpose it to thank the user for submitting the form to enhance user experience but also to inform the user their submission was successful.
+The thank you page has a thank you note and is styled the same as the other pages, its purpose is to thank the user for submitting the form, enhance the user experience, and inform the user their submission was successful.
 
 ![Thank you page](assets/images/readme-images/thankyou-readme.png)
 
@@ -169,7 +169,7 @@ The footer is located at the bottom of the page and contains links to social med
 
 ### Responsiveness
 
-The site is responsive from 270px and functions on a range of screen sizes. It was built prioritisig mobile's first and media queries were applied to ensure responsiveness on larger screen sizes. 
+The site is responsive from 270px and functions on a range of screen sizes. It was built prioritising mobile's first and media queries were applied to ensure responsiveness on larger screen sizes. 
 
 ### Accessibility
 Aria-lables, alt text, color contrast and font selections were thoughtfully chosen to ensure an inclusive and accesible user experience.
@@ -205,7 +205,7 @@ The site was tested on Google Chrome, Safari, Firefox and Edge and functions and
 Responsiveness was tested with Chrome Dev Tools and by changing the viewport from 270px and upwards. I also checked responsiveness on 'Am I Responsive' and Responsive test tool.
 
 ## Lighthouse Testing
-The lighthouse testing was successful with scores above 90 across all pages for all four ratings (perfomance, accessibility, best practices and SEO)
+The lighthouse testing was successful with scores above 90 across all pages for all four ratings (performance, accessibility, best practices and SEO)
 
 ### Home page
 ![Homepage lighthouse testing](assets/images/readme-images/home-lh.png)

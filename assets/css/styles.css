@@ -185,7 +185,10 @@ nav {
     font-family: "Raleway";
     font-size: 1rem;
     font-weight: 200;
+    /*
     border: 1px solid rgb(164, 76, 3);
+    */
+    
     background-color: rgb(164, 76, 3);
     border-radius: 10px;
     padding: 15px;
@@ -588,10 +591,6 @@ select#time-dropdown {
     #book-a-class {
         margin-top: 100px;
     }
-    
-
-    
-    
 }
 
 
