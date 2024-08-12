@@ -60,6 +60,7 @@ ul li:hover {
 }
 
 /* Navbar styles with dropdown toggle */
+
 nav {
     position: absolute;
     background-color: #fae5ce;
@@ -77,6 +78,7 @@ nav {
 }
 
 /* Nav toggle */
+
 #nav-toggle:checked ~ nav {
     display: block;
 }
@@ -91,8 +93,6 @@ nav {
     color: rgb(40, 51, 75);
     padding-right: 20px;
 }
-
-/* Main */
 
 /* Hero section */
 
@@ -121,8 +121,6 @@ nav {
     border-radius: 5px;
     margin-bottom: 300px;
 }
-
-
 
 /* Images and yoga text */
 
@@ -185,10 +183,6 @@ nav {
     font-family: "Raleway";
     font-size: 1rem;
     font-weight: 200;
-    /*
-    border: 1px solid rgb(164, 76, 3);
-    */
-    
     background-color: rgb(164, 76, 3);
     border-radius: 10px;
     padding: 15px;
@@ -278,10 +272,7 @@ a {
     
 }
 
-
-
 /*Book a class Page */
-
 
 #book {
     min-height: 100vh;
@@ -430,8 +421,6 @@ select#time-dropdown {
 
 /*Footer*/
 
-
-
 #socials {
     text-align: center;
     display: flex;
@@ -452,9 +441,7 @@ select#time-dropdown {
     
 }
 
-
 /* Media Queries for 768px and up */
-
 
 @media screen and (min-width: 768px) {
     
@@ -531,7 +518,7 @@ select#time-dropdown {
         margin: 75px;
     }
 
-    /* Media Query for 1095px footer*/
+/* Media Query for 1095px footer*/
 
     @media screen and (min-width: 1095px) {
        
@@ -542,7 +529,6 @@ select#time-dropdown {
         }
     }
     
-
 /* Media Queries for 1200px and up */
 
 @media screen and (min-width: 1200px) {
@@ -592,7 +578,3 @@ select#time-dropdown {
         margin-top: 100px;
     }
 }
-
-
-
-

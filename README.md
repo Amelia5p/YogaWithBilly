@@ -198,14 +198,14 @@ Aria-lables, alt text, color contrast and font selections were thoughtfully chos
 
 
 ## Browsers Compatibility
-The site was tested on Google Chrome, Safari, Firefox and Edge and functions and appears as it should across all major browsers.
+The site was tested using Dev Tools on Google Chrome, Safari, Firefox and Edge and functions and appears as it should across all major browsers. I also tested it on an Iphone 12 mini and a Samsung Galaxy S21 ultra.
 
 ## Responsiveness
 
-Responsiveness was tested with Chrome Dev Tools and by changing the viewport from 270px and upwards. I also checked responsiveness on 'Am I Responsive' and Responsive test tool.
+Responsiveness was tested with Chrome Dev Tools and by changing the viewport from 270px and upwards. I also checked responsiveness on 'Am I Responsive' and Responsive test tool.  I also tested it on an Iphone 12 mini and a Samsung Galaxy S21 ultra.
 
 ## Lighthouse Testing
-The lighthouse testing was successful with scores above 90 across all pages for all four ratings (performance, accessibility, best practices and SEO)
+The lighthouse testing was successful with scores above 90 across all pages for all four ratings (Performance, Accessibility, Best Practices and SEO).
 
 ### Home page
 ![Homepage lighthouse testing](assets/images/readme-images/home-lh.png)
