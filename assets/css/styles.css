@@ -392,8 +392,8 @@ select#time-dropdown {
 }
 
 /* Thanks page */
-
-.thank-you {
+ 
+.thank-you-container {
     color: rgb(40, 51, 75);
     background: #9db8cf;
     padding: 20px;
@@ -406,7 +406,7 @@ select#time-dropdown {
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
-.thanks {
+.thanks-title {
     font-size: 3rem;
     text-align: center;
     margin: 0 auto;

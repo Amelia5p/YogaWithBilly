@@ -81,7 +81,7 @@ Live site: https://amelia5p.github.io/YogaWithBilly/
 
 ## Design
 
-Wireframes were made in Balsamiq to ensure a clear and easy development process, however please note the final design may not match these wireframes exactly as there were many iterations explored. The color palette was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website is where the inspiration for the colors came from, this creates a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
+Wireframes were made in Balsamiq to ensure a clear and easy development process, however please note the final design may not match these wireframes exactly as there were many iterations explored. The color palette was created on Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website inspired the color scheme, this created a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
 
 
 
@@ -152,7 +152,7 @@ The about me page has a brief personal description about Billy, underneath this 
 
 ### Book a class page 
 
-The book a class page has the same background as the About me page for consistency in the styling, the page consists of a simple-to-use form that has no uneccesary questions. There are clear prompts shown to the user if they don't enter the required information before submitting. Once the user has submited the form they are redirected to a 'thank you' page which enhances the user's experience.
+The book a class page has the same background as the About me page for consistency in the styling, the page consists of a simple-to-use form that has no unnecessary questions. There are clear prompts shown to the user if they don't enter the required information before submitting. Once the user has submited the form they are redirected to a 'thank you' page which enhances the user's experience.
 
 ![Book a class page](assets/images/readme-images/bookaclass-readme.png)
 
@@ -171,11 +171,14 @@ The footer is located at the bottom of the page and contains links to social med
 
 The site is responsive from 270px and functions on a range of screen sizes. It was built prioritisig mobile's first and media queries were applied to ensure responsiveness on larger screen sizes. 
 
+### Accessibility
+Aria-lables, alt text, color contrast and font selections were thoughtfully chosen to ensure an inclusive and accesible user experience.
+
 ### Future features
  I would like to implement the following features in the future to allow for an improved user experience:
  - Sign up and Login feature to allow users a personalised experience.
  - A feature which shows users previous classes and upcoming classes.
- - A loyalty scheme where the user gets every 6th class free if they sign up on the site.
+ - A loyalty scheme where the user gets every 6th class free if they sign up on the site, this would increase customer retention.
  - A large library of video and images showing snippets of classes and yoga poses.
 
 # Testing
@@ -237,7 +240,7 @@ The CSS stylesheet was tested through the W3C Validator with no errors:
 
 Debugging and problem solving was done consistently throughout the development process.
 
-List of some issues that arised:
+List of some issues that arose:
 
 * The hero image wasn't 100% in width and image was in px which was stretching across the screen and didn't know what to priotritise- change to %.
 * The hero image was not showing up when I deployed for the first time, I fixed the file path to solve this issue.
@@ -346,20 +349,3 @@ There is now a forked copy on Github.
 
 # Acknowledgements 
 This is project one, created for the Code Institutes Full Stack Web Developer (eCommerce) course. I would like to thank my cohort facilitator Laura, my mentor and the Code Institute team for their support.
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
