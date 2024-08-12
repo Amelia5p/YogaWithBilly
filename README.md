@@ -83,8 +83,6 @@ Live site: https://amelia5p.github.io/YogaWithBilly/
 
 Wireframes were made in Balsamiq to ensure a clear and easy development process, however please note that the final design may not match these wireframes exactly as many iterations were explored. The color palette was created using Muzli colors, the colors used are quite muted creating a relaxed experience for users. The images used throughout the website inspired the color scheme, this created a consistent and cohesive theme. The 'Raleway' and 'Lato' fonts were chosen for their elegance and warmth. These fonts are also highly legible, making them a great choice. Sans Serif is used as the fallback font.
 
-
-
 ### Wireframes
 
 
@@ -245,7 +243,7 @@ List of some issues that arose:
 * The hero image was not going the full width of the page, the fix was to add 100% width in my CSS.
 * The hero image was not showing up when I deployed for the first time, I fixed the file path to solve this issue.
 * When the text was changed on the homepage under the title Yin Yoga, the text underneath Vinyasa yoga spilled out, I fixed this issue by setting media queries with width values. 
-* There was an error in my HTML, I had an anchor tag nested within my button element, I realised this was an issue and fixed it by removing the button element.
+* There was an error in my HTML, I created a link to the 'book a class' page using an anchor tag nested within my button element, I realised this was an issue after validation and fixed it by removing the button element.
 * The footer on the about me page was twice the height it should be, fixed this by setting the background image at 100vh which pushed the footer down.
 * The hamburger drop down menu when opened was covering some content, I fixed this by adding some padding.
 
@@ -330,19 +328,13 @@ There is now a forked copy on Github.
 - <a href="https://favicon.io/favicon-converter/#google_vignette"> Favicon Converter</a>
 - <a href="https://www.canva.com/"> Canva</a>
  
-
-
-
 ## Other
 - <a href="https://fonts.google.com/"> Google Fonts</a>
 - <a href="https://www.w3schools.com/"> W3schools</a>
 - <a href="https://colors.muz.li/"> Muzli Colors</a>
 - <a href="https://www.shutterstock.com/image-resizer">Shutterstock to resize images</a>
 
-
 ## Code / Educational Resources
-
-
 - How to create cards: https://www.youtube.com/watch?v=9FNNkzPBFcE
 - Code institutes 'Love Running' project.
 - Information regarding yoga practices: <a href="https://fusionwellness.com.au/">Fusion wellness</a>
