@@ -244,6 +244,7 @@ List of some issues that arised:
 * When the text was changed on the homepage under the title Yin Yoga, the text underneath Vinyasa yoga spilled out, I fixed this issue by setting media queries with width values. 
 * There was an error in my HTML, I had an anchor tag nested within my button element, I realised this was an issue and fixed it by removing the button element.
 * The footer on the about me page was twice the height it should be, fixed this by setting the background image at 100vh which pushed the footer down.
+* The hamburger drop down menu when opened was covering some content, I fixed this by adding some padding.
 
 # Deployment
 
