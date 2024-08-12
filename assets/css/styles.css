@@ -213,7 +213,7 @@ a {
 /* About me Page */
 
 .about-title {
-    padding-top: 180px;
+    padding-top: 200px;
     font-size: 2.5rem;
     text-align: center;
     font-family: "Raleway", sans-serif;
@@ -402,7 +402,7 @@ select#time-dropdown {
     max-width: 550px;
     width: 100%;
     margin: 0 auto;
-    margin-top: 150px;
+    margin-top: 200px;
     height: 100%;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
@@ -490,6 +490,7 @@ select#time-dropdown {
         flex-direction: row;
         background: url(../images/cloud-bg.jpg);
         margin-top: 50px;
+        padding-top:100px;
     }
 
     #book-a-class {
