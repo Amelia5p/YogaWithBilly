@@ -7,7 +7,7 @@ Yoga with Billy is a user friendly website for yoga lovers. The website offers u
 
 Live site: https://amelia5p.github.io/YogaWithBilly/
 
-![Responsive Site](assets/images/responsive.png) 
+![Responsive Site](assets/images/readme-images/responsive.png) 
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
@@ -88,16 +88,16 @@ Wireframes were made in Balsamiq to ensure a clear and easy development process,
 ### Wireframes
 
 
-![wireframes](assets/images/full%20wireframe.png)
+![wireframes](assets/images/readme-images/full-wireframe.png)
 
 ### Color Palette 
 
-![Color-palette](assets/images/color-palette.png)
+![Color-palette](assets/images/readme-images/color-palette.png)
 
 ### Typography
 
-![Font1](assets/images/font1.png)
-![Font2](assets/images/font2.png)
+![Font1](assets/images/readme-images/font1.png)
+![Font2](assets/images/readme-images/font2.png)
 
 ### Images
 The images used were professionally taken and were provided to me by the business owner to use on the site. The images are compressed to optimise the sites loading times. 
@@ -129,43 +129,43 @@ There are currently three pages on the website: Home, About me and Book a class 
 ### Navigation Bar
 The navigation bar shows links to each of the pages. It is fully responsive, turning into a hamburger menu on smaller screen sizes. 
 
-![Navigation Bar hamburger](assets/images/small-nav-readme.png)
-![Navigation Bar](assets/images/full-nav-readme.png)
+![Navigation Bar hamburger](assets/images/readme-images/small-nav-readme.png)
+![Navigation Bar](assets/images/readme-images/full-nav-readme.png)
 
 ### Hero section/ landing content
 The content you see when you click on the website is an attractive hero image and hero text which gives the user immediate knowledge of the purpose of the site.
 
-![hero section](assets/images/hero-readme.png)
+![hero section](assets/images/readme-images/hero-readme.png)
 
 
 ### Homepage
 The homepage is made up of the hero section which is an attactive image and text, underneath this, there are three images with three concise descriptions of different yoga styles to give the user information on the classes provided. At the bottom of the page there is a call to action (button) which allows the user to book a class. The button is linked to the book a class page.
 
-![Homepage](assets/images/homepage-readme.png) 
+![Homepage](assets/images/readme-images/homepage-readme.png) 
 
 
 ### About me page
 
 The about me page has a brief personal description about Billy, underneath this there are three cards containing images with a description of Billy's qualifications, skills and expertise. The background is calming and the style simple.
 
-![About me page](assets/images/aboutme-readme.png)
+![About me page](assets/images/readme-images/aboutme-readme.png)
 
 ### Book a class page 
 
 The book a class page has the same background as the About me page for consistency in the styling, the page consists of a simple-to-use form that has no uneccesary questions. There are clear prompts shown to the user if they don't enter the required information before submitting. Once the user has submited the form they are redirected to a 'thank you' page which enhances the user's experience.
 
-![Book a class page](assets/images/bookaclass-readme.png)
+![Book a class page](assets/images/readme-images/bookaclass-readme.png)
 
 ### Thank you page
 
 The thank you page has a thank you note and is styled the same as the other pages, its purpose it to thank the user for submitting the form to enhance user experience but also to inform the user their submission was successful.
 
-![Thank you page](assets/images/thankyou-readme.png)
+![Thank you page](assets/images/readme-images/thankyou-readme.png)
 
 ### Footer
 The footer is located at the bottom of the page and contains links to social media accounts using attractive icons.
 
-![footer](assets/images/footer-readme.png)
+![footer](assets/images/readme-images/footer-readme.png)
 
 ### Responsiveness
 
@@ -205,16 +205,16 @@ Responsiveness was tested with Chrome Dev Tools and by changing the viewport fro
 The lighthouse testing was successful with scores above 90 across all pages for all four ratings (perfomance, accessibility, best practices and SEO)
 
 ### Home page
-![Homepage lighthouse testing](assets/images/home-lh.png)
+![Homepage lighthouse testing](assets/images/readme-images/home-lh.png)
 
 ### About me page
-![About me lighthouse testing](assets/images/aboutme-lh.png)
+![About me lighthouse testing](assets/images/readme-images/aboutme-lh.png)
 
 ### Book a class page
-![Book a class lighthouse testing](assets/images/bookclass-lh.png)
+![Book a class lighthouse testing](assets/images/readme-images/bookclass-lh.png)
 
 ### Thank you page
-![Thank you lighthouse testing](assets/images/thanks-lh.png)
+![Thank you lighthouse testing](assets/images/readme-images/thanks-lh.png)
 
 ## Code Validation
 
@@ -222,15 +222,15 @@ The lighthouse testing was successful with scores above 90 across all pages for 
 
 All pages were tested through the W3C validator with no errors:
 
-![Home Page Code Validation](assets/images/html-index-pg.png) 
-![About Me Page Code Validation](assets/images/html-aboutme-pg.png) 
-![Book a Class Page Code Validation](assets/images/html-bookaclass-pg.png) 
+![Home Page Code Validation](assets/images/readme-images/html-index-pg.png) 
+![About Me Page Code Validation](assets/images/readme-images/html-aboutme-pg.png) 
+![Book a Class Page Code Validation](assets/images/readme-images/html-bookaclass-pg.png) 
 
 #### CSS
 
 The CSS stylesheet was tested through the W3C Validator with no errors:
 
-![CSS Code Validation](assets/images/css.png) 
+![CSS Code Validation](assets/images/readme-images/css-validation.png) 
 
 
 # Bugs
@@ -254,22 +254,22 @@ This site has been built on Gitpod, the code was then pushed to Github where it 
 
 From the <a href="https://github.com/Amelia5p/YogaWithBilly" target="_blank">Github repository</a> click on settings which is near the top op the right side of the page.
 
-![Deployment step one](assets/images/dep-s1-readme.png)
+![Deployment step one](assets/images/readme-images/dep-s1-readme.png)
 
 ### <ins>Step 2:</ins>
 From the options listed on the left hand side of the page, click 'Pages'.
 
-![Deployment step one](assets/images/dep-s2-readme.png)
+![Deployment step one](assets/images/readme-images/dep-s2-readme.png)
 
 ### <ins>Step 3: </ins>
 From the drop down menu under source select deploy from branch. From the dropdown menu's under branch select 'Main' and 'Root' then click save.
 
-![Deployment step one](assets/images/dep-s3-readme.png)
+![Deployment step one](assets/images/readme-images/dep-s3-readme.png)
 
 ### <ins>Result:</ins>
 The page will be refreshed and you will see the link to the live site.
 
-![Deployment step one](assets/images/dep-rs-readme.png)
+![Deployment step one](assets/images/readme-images/dep-rs-readme.png)
 
 
 ## Cloning Repository

@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 
-/* body */
+/* Body */
 
 body {
     font-family: "lato", sans-serif;
@@ -19,7 +19,7 @@ body {
     min-height: 100vh;
 }
 
-/* header */
+/* Header */
 
 header {
     background-color: #fae5ce;
@@ -279,7 +279,6 @@ a {
 
 /*Book a class Page */
 
-/*Form */
 
 #book {
     min-height: 100vh;
@@ -322,7 +321,7 @@ a {
     font-family: "Raleway", sans-serif;
 }
 
-/*Text inpits */
+/*Text inputs */
 
 .text-input {
     background: #fff4e2;
@@ -453,8 +452,9 @@ select#time-dropdown {
 
 /* Media Queries for 768px and up */
 
+
 @media screen and (min-width: 768px) {
-    /* header */
+    
     .nav-toggle-label {
         display: none;
     }
@@ -483,7 +483,6 @@ select#time-dropdown {
         font-size: 3rem;
     }
 
-    /* Form */
 
     #book {
         display: flex;
@@ -530,8 +529,9 @@ select#time-dropdown {
     }
 
     /* Media Query for 1095px footer*/
+
     @media screen and (min-width: 1095px) {
-        /* header */
+       
         #about-bg {
            padding-bottom: 50px;
             
